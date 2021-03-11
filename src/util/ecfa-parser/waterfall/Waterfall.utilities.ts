@@ -40,19 +40,20 @@ export async function exportScoresToExcel(scoresLookup: Map<string, WaterfallSco
     const workbook = new ExcelJS.Workbook();
     const sheet = workbook.addWorksheet('Scores');
     sheet.getColumn(1).width = sheet.getColumn(2).width = 52;
-    sheet.addRows(excelScores.map(score => score === null ? [] : score.toExcelRow()))
+    sheet.addRows(excelScores.map(score => score.toExcelRow()))
     
     const data = await workbook.xlsx.writeBuffer();
     let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
     fs.saveAs(blob, 'Scores.xlsx');
 }
 
-function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>): (WaterfallExcelScore | null)[] {
+function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>): WaterfallExcelScore[] {
     return songlist.map(song => {
         if (!scoresLookup.has(song.folderName)) {
             console.error(`Player hasn't completed this song: [${song.folderName}]`);
             return new WaterfallExcelScore(song.chartName, song.folderName, null); 
         }
+        
         const score = scoresLookup.get(song.folderName)!;
         return new WaterfallExcelScore(
             song.chartName,
