@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ecfa-parser
+src/types/**/*.js
+src/util/**/*.js
+src/util/**/*.json

@@ -10,6 +10,7 @@
     "@types/node": "^12.20.5",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.2",
+    "exceljs": "^4.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-dropzone": "^11.3.1",
@@ -21,7 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "songlist:generate": "cd src/util/ecfa-parser && tsc ecfa-parser.ts --module commonjs && node ecfa-parser.js"
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tsc": "^1.20150623.0"
   }
 }
