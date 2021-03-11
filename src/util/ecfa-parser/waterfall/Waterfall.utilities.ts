@@ -36,9 +36,12 @@ function processJudgementsRow(row: string): WaterfallScore {
 
 export async function exportScoresToExcel(scoresLookup: Map<string, WaterfallScore>) {
     const excelScores = generateWaterfallExcelScores(scoresLookup);
+    
     const workbook = new ExcelJS.Workbook();
     const sheet = workbook.addWorksheet('Scores');
+    sheet.getColumn(1).width = sheet.getColumn(2).width = 52;
     sheet.addRows(excelScores.map(score => score === null ? [] : score.toExcelRow()))
+    
     const data = await workbook.xlsx.writeBuffer();
     let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
     fs.saveAs(blob, 'Scores.xlsx');
