@@ -5,6 +5,12 @@ import { WaterfallExcelJudgements, WaterfallExcelScore, WaterfallScore } from ".
 
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
 
+const TERRA_FIRMA_OLD_STEPCOUNT = 821;
+const TERRA_FIRMA_NEW_STEPCOUNT = 815;
+
+const AVE_DE_RAPINA_OLD_STEPCOUNT = 578;
+const AVE_DE_RAPINA_NEW_STEPCOUNT = 579;
+
 export function generateWaterfallScoresLookup(rawScores: string): Map<string, WaterfallScore> {
     const scoresLookup = new Map<string, WaterfallScore>();
     const lines = rawScores.split('\n');
@@ -36,12 +42,12 @@ function processJudgementsRow(row: string): WaterfallScore {
 
 export async function exportScoresToExcel(scoresLookup: Map<string, WaterfallScore>) {
     const excelScores = generateWaterfallExcelScores(scoresLookup);
-    
+
     const workbook = new ExcelJS.Workbook();
     const sheet = workbook.addWorksheet('Scores');
     sheet.getColumn(1).width = sheet.getColumn(2).width = 52;
-    sheet.addRows(excelScores.map(score => score.toExcelRow()))
-    
+    sheet.addRows(excelScores.map(score => score.toExcelRow()));
+
     const data = await workbook.xlsx.writeBuffer();
     let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
     fs.saveAs(blob, 'Scores.xlsx');
@@ -49,12 +55,37 @@ export async function exportScoresToExcel(scoresLookup: Map<string, WaterfallSco
 
 function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>): WaterfallExcelScore[] {
     return songlist.map(song => {
-        if (!scoresLookup.has(song.folderName)) {
+        const emptyScore = new WaterfallExcelScore(song.chartName, song.folderName, null);
+        const score = scoresLookup.get(song.folderName);
+        if (score === undefined) {
             console.error(`Player hasn't completed this song: [${song.folderName}]`);
-            return new WaterfallExcelScore(song.chartName, song.folderName, null); 
+            return emptyScore;
         }
+
+        // edge case: Terra Firma [mute] updated chart
+        if (song.folderName === "Terra Firma (SX 12)") {
+            const expectedStepCount = song.chartName === 'Terra Firma (OLD)'
+                ? TERRA_FIRMA_OLD_STEPCOUNT
+                : TERRA_FIRMA_NEW_STEPCOUNT
+            
+            if (expectedStepCount !== score.getTotalSteps()) {
+                console.error(`Processing ${song.chartName}, expected ${expectedStepCount} steps, got ${score.getTotalSteps()} steps`);
+                return emptyScore;
+            }
+        }
+
+        // edge case: Ave de Rapina [mute] updated chart
+        if (song.folderName === "Ave de Rapina (SX 11)") {
+            const expectedStepCount = song.chartName === 'Ave de Rapina (OLD)'
+                ? AVE_DE_RAPINA_OLD_STEPCOUNT
+                : AVE_DE_RAPINA_NEW_STEPCOUNT
         
-        const score = scoresLookup.get(song.folderName)!;
+            if (expectedStepCount !== score.getTotalSteps()) {
+                console.error(`Processing ${song.chartName}, expected ${expectedStepCount} steps, got ${score.getTotalSteps()} steps`);
+                return emptyScore;
+            }
+        }
+
         return new WaterfallExcelScore(
             song.chartName,
             song.folderName,

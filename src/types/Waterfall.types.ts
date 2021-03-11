@@ -27,6 +27,15 @@ export class WaterfallScore {
     misses: number;
     droppedHolds: number;
     minesHit: number;
+
+    getTotalSteps = () => {
+        return this.masterfuls
+            + this.awesomes
+            + this.solids
+            + this.oks
+            + this.faults
+            + this.misses;
+    }
 }
 
 export class WaterfallExcelScore {
