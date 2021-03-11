@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Dropzone onDrop={acceptedFiles => console.log(acceptedFiles)}>
+        <Dropzone onDrop={acceptedFiles => console.log(acceptedFiles)} multiple={false}>
           {({ getRootProps, getInputProps }) => (
             <section>
               <div {...getRootProps()} className="Dropzone">
