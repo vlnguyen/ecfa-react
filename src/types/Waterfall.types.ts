@@ -33,30 +33,39 @@ export class WaterfallExcelScore {
     constructor(
         chartName: string,
         folderName: string,
-        mas: number,
-        awe: number,
-        red: number,
+        judgements: WaterfallExcelJudgements | null,
     ) {
         this.chartName = chartName;
         this.folderName = folderName;
-        this.mas = mas;
-        this.awe = awe;
-        this.red = red;
+        this.judgements = judgements;
     }
-
+    
     chartName: string;
     folderName: string;
-    mas: number;
-    awe: number;
-    red: number;
+    judgements: WaterfallExcelJudgements | null;
 
     toExcelRow = () => {
         return [
             this.chartName,
             this.folderName,
-            this.mas,
-            this.awe,
-            this.red,
+            this.judgements?.mas ?? null,
+            this.judgements?.awe ?? null,
+            this.judgements?.red ?? null,
         ];
     };
+}
+
+export class WaterfallExcelJudgements {
+    constructor(
+        mas: number,
+        awe: number,
+        red: number,
+    ) {
+        this.mas = mas;
+        this.awe = awe;
+        this.red = red;
+    }
+    mas: number;
+    awe: number;
+    red: number;
 }

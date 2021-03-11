@@ -1,7 +1,7 @@
 import * as ExcelJS from 'exceljs';
 import fs from 'file-saver';
 import { default as songlist } from '../../../res/songlist.json';
-import { WaterfallExcelScore, WaterfallScore } from "../../../types/Waterfall.types";
+import { WaterfallExcelJudgements, WaterfallExcelScore, WaterfallScore } from "../../../types/Waterfall.types";
 
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
 
@@ -48,15 +48,17 @@ function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>)
     return songlist.map(song => {
         if (!scoresLookup.has(song.folderName)) {
             console.error(`Player hasn't completed this song: [${song.folderName}]`);
-            return null;
+            return new WaterfallExcelScore(song.chartName, song.folderName, null); 
         }
         const score = scoresLookup.get(song.folderName)!;
         return new WaterfallExcelScore(
             song.chartName,
             song.folderName,
-            score.masterfuls,
-            score.awesomes,
-            score.minesHit + (song.holds + song.rolls - score.droppedHolds)
+            new WaterfallExcelJudgements(
+                score.masterfuls,
+                score.awesomes,
+                score.minesHit + (song.holds + song.rolls - score.droppedHolds)
+            )
         );
     });
 }
