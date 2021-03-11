@@ -1,4 +1,5 @@
 import React from 'react';
+import Dropzone from 'react-dropzone';
 import logo from './img/ecfa2021-logo.png';
 import './App.css';
 
@@ -7,17 +8,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Dropzone onDrop={acceptedFiles => console.log(acceptedFiles)}>
+          {({ getRootProps, getInputProps }) => (
+            <section>
+              <div {...getRootProps()} className="Dropzone">
+                <input {...getInputProps()} />
+                <p>Drop a player's ECFA2021.wf file here, or click to select a file.</p>
+              </div>
+            </section>
+          )}
+        </Dropzone>
       </header>
     </div>
   );

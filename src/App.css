@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  max-height: 40vmin;
   pointer-events: none;
 }
 
@@ -12,6 +12,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -19,4 +20,14 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Dropzone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 10vh;
+  padding: 16px;
+  background-color: #ffccf2;
+  color: black;
 }
