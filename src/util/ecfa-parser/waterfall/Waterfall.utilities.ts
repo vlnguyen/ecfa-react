@@ -3,6 +3,7 @@ import { WaterfallScore } from "../../../types/Waterfall.types";
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
 
 export function generateWaterfallScoresLookup(rawScores: string):Map<string, WaterfallScore> {
+    const scoresLookup = new Map<string, WaterfallScore>();
     const lines = rawScores.split('\n');
     for (let index = 0; index + 1 < lines.length; index += 2) {
         const match = lines[index].match(folderNameRegex);
@@ -11,7 +12,21 @@ export function generateWaterfallScoresLookup(rawScores: string):Map<string, Wat
             continue;
         }
         const folderName = match[1];
-        console.log(folderName);
+        scoresLookup.set(folderName, processJudgementsRow(lines[index + 1]));
     }
-    return new Map<string, WaterfallScore>();
+    return scoresLookup;
+}
+
+function processJudgementsRow(row: string): WaterfallScore {
+    const judgements = row.split(',').map(val => parseInt(val));
+    return new WaterfallScore(
+        judgements[0],
+        judgements[1],
+        judgements[2],
+        judgements[3],
+        judgements[4],
+        judgements[5],
+        judgements[6],
+        judgements[7]
+    );
 }

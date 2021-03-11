@@ -11,7 +11,7 @@ import { generateWaterfallScoresLookup } from './util/ecfa-parser/waterfall/Wate
 function handleFileSelected<T extends File>(acceptedFiles: T[]) {
   const fileReader = new FileReader();
   fileReader.onloadend = async () => {
-    generateWaterfallScoresLookup(fileReader.result as string);
+    console.log(generateWaterfallScoresLookup(fileReader.result as string));
   };
   fileReader.readAsText(acceptedFiles[0]);
   exportScoresToExcel();
