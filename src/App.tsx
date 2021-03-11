@@ -6,12 +6,12 @@ import { WaterfallScore } from './types/Waterfall.types';
 import { default as songlist } from './res/songlist.json';
 import logo from './img/ecfa2021-logo.png';
 import './App.css';
+import { generateWaterfallScoresLookup } from './util/ecfa-parser/waterfall/Waterfall.utilities';
 
 function handleFileSelected<T extends File>(acceptedFiles: T[]) {
   const fileReader = new FileReader();
-  fileReader.onloadend = async (e) => {
-    const content = fileReader.result;
-    console.log(content);
+  fileReader.onloadend = async () => {
+    generateWaterfallScoresLookup(fileReader.result as string);
   };
   fileReader.readAsText(acceptedFiles[0]);
   exportScoresToExcel();
