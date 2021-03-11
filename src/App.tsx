@@ -2,7 +2,7 @@ import React from 'react';
 import Dropzone from 'react-dropzone';
 import * as ExcelJS from 'exceljs';
 import fs from 'file-saver';
-import { WaterfallScore } from './types/Waterfall.types';
+import { WaterfallExcelScore } from './types/Waterfall.types';
 import { default as songlist } from './res/songlist.json';
 import logo from './img/ecfa2021-logo.png';
 import './App.css';
@@ -21,7 +21,7 @@ async function exportScoresToExcel() {
   const workbook = new ExcelJS.Workbook();
   const sheet = workbook.addWorksheet('Scores');
   sheet.addRows(songlist.map(
-      song => new WaterfallScore(song.chartName, song.folderName, 0, 0, 0).toExcelRow())
+      song => new WaterfallExcelScore(song.chartName, song.folderName, 0, 0, 0).toExcelRow())
   );
   workbook.xlsx.writeBuffer().then((data) => {
     let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });

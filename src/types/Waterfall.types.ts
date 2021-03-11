@@ -1,4 +1,4 @@
-export class WaterfallScore {
+export class WaterfallExcelScore {
     constructor(
         chartName: string,
         folderName: string,
