@@ -1,0 +1,3117 @@
+[
+    {
+        "chartName": "9mm (SH)",
+        "folderName": "9mm (SH 7)",
+        "steps": 352,
+        "rolls": 10,
+        "holds": 39
+    },
+    {
+        "chartName": "Act Beloved (SH)",
+        "folderName": "Act Beloved (SH 7)",
+        "steps": 447,
+        "rolls": 0,
+        "holds": 113
+    },
+    {
+        "chartName": "Aura (SM)",
+        "folderName": "aura (SM 7)",
+        "steps": 373,
+        "rolls": 0,
+        "holds": 61
+    },
+    {
+        "chartName": "Beach Episode (SM)",
+        "folderName": "Beach Episode (SM 7)",
+        "steps": 457,
+        "rolls": 11,
+        "holds": 79
+    },
+    {
+        "chartName": "Bye Bye My Babe (SH)",
+        "folderName": "Bye Bye My Babe (SH 7)",
+        "steps": 359,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Cosmic Invaders (SM)",
+        "folderName": "Cosmic Invaders (SM 7)",
+        "steps": 441,
+        "rolls": 2,
+        "holds": 63
+    },
+    {
+        "chartName": "Debug Dance (SM)",
+        "folderName": "Debug Dance (SM 7)",
+        "steps": 356,
+        "rolls": 0,
+        "holds": 53
+    },
+    {
+        "chartName": "Headgrinder (SH)",
+        "folderName": "Headgrinder (SH 7)",
+        "steps": 375,
+        "rolls": 12,
+        "holds": 5
+    },
+    {
+        "chartName": "Hop Step Adventure (SM)",
+        "folderName": "Hop Step Adventure (SM 7)",
+        "steps": 415,
+        "rolls": 0,
+        "holds": 59
+    },
+    {
+        "chartName": "K-Pop Culture (SH)",
+        "folderName": "K-Pop Culture (SH 7)",
+        "steps": 383,
+        "rolls": 0,
+        "holds": 46
+    },
+    {
+        "chartName": "Oboro remix (SM)",
+        "folderName": "Oboro (dj TAKA Remix) (SM 7)",
+        "steps": 336,
+        "rolls": 0,
+        "holds": 60
+    },
+    {
+        "chartName": "Panjandrum (SM)",
+        "folderName": "Panjandrum (SM 7)",
+        "steps": 369,
+        "rolls": 0,
+        "holds": 48
+    },
+    {
+        "chartName": "Papayapa Bass (SM)",
+        "folderName": "PAPAYAPA BASS (SM 7)",
+        "steps": 357,
+        "rolls": 6,
+        "holds": 93
+    },
+    {
+        "chartName": "Peaceful Planet Party (SH)",
+        "folderName": "Peaceful Planet Party (SH 7)",
+        "steps": 364,
+        "rolls": 0,
+        "holds": 50
+    },
+    {
+        "chartName": "Point (SM)",
+        "folderName": "Point (SM 7)",
+        "steps": 322,
+        "rolls": 1,
+        "holds": 49
+    },
+    {
+        "chartName": "Quick Attack (SM)",
+        "folderName": "Quick Attack (SM 7)",
+        "steps": 375,
+        "rolls": 3,
+        "holds": 50
+    },
+    {
+        "chartName": "RAVE BUSTERS (SM)",
+        "folderName": "RAVE BUSTERS (SM 7)",
+        "steps": 364,
+        "rolls": 0,
+        "holds": 16
+    },
+    {
+        "chartName": "Release the Music (SM)",
+        "folderName": "Release the Music (SM 7)",
+        "steps": 415,
+        "rolls": 20,
+        "holds": 4
+    },
+    {
+        "chartName": "Seizure Salad (SM)",
+        "folderName": "Seizure Salad (SM 7)",
+        "steps": 380,
+        "rolls": 0,
+        "holds": 46
+    },
+    {
+        "chartName": "Snowblind (SH)",
+        "folderName": "Snowblind (SH 7)",
+        "steps": 359,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "Spaceman (SM)",
+        "folderName": "Spaceman (SM 7)",
+        "steps": 457,
+        "rolls": 0,
+        "holds": 7
+    },
+    {
+        "chartName": "The Queen (SM)",
+        "folderName": "The Queen (SM 7)",
+        "steps": 397,
+        "rolls": 3,
+        "holds": 77
+    },
+    {
+        "chartName": "The Terrorist (SM)",
+        "folderName": "The Terrorist (SM 7)",
+        "steps": 396,
+        "rolls": 3,
+        "holds": 46
+    },
+    {
+        "chartName": "Travel to Future (SM)",
+        "folderName": "Travel to Future (SM 7)",
+        "steps": 355,
+        "rolls": 2,
+        "holds": 13
+    },
+    {
+        "chartName": "Unknown Civilization (SH)",
+        "folderName": "Unknown Civilization (SH 7)",
+        "steps": 422,
+        "rolls": 3,
+        "holds": 50
+    },
+    {
+        "chartName": "Upshift (remix) (SM)",
+        "folderName": "Upshift (Yunosuke Remix) (SM 7)",
+        "steps": 378,
+        "rolls": 0,
+        "holds": 36
+    },
+    {
+        "chartName": "WONDER WOBBLER (SM)",
+        "folderName": "WONDER_WOBBLER (SM 7)",
+        "steps": 347,
+        "rolls": 0,
+        "holds": 36
+    },
+    {
+        "chartName": "Youthful (SM)",
+        "folderName": "Youthful (SM 7)",
+        "steps": 446,
+        "rolls": 0,
+        "holds": 88
+    },
+    {
+        "chartName": "Zephyr (SH)",
+        "folderName": "Zephyr (SH 7)",
+        "steps": 409,
+        "rolls": 14,
+        "holds": 101
+    },
+    {
+        "chartName": "Alstroemeria (SH)",
+        "folderName": "Alstroemeria (SH 8)",
+        "steps": 438,
+        "rolls": 0,
+        "holds": 1
+    },
+    {
+        "chartName": "Black Jackal (SM)",
+        "folderName": "BLACK JACKAL (SM 8)",
+        "steps": 429,
+        "rolls": 0,
+        "holds": 4
+    },
+    {
+        "chartName": "Bounce Bounce Bounce (SH)",
+        "folderName": "Bounce Bounce Bounce (SH 8)",
+        "steps": 433,
+        "rolls": 0,
+        "holds": 12
+    },
+    {
+        "chartName": "CENSORED (SM)",
+        "folderName": "Censored!! (SM 8)",
+        "steps": 415,
+        "rolls": 0,
+        "holds": 28
+    },
+    {
+        "chartName": "DEADHEAT (SM)",
+        "folderName": "DEADHEAT (SM 8)",
+        "steps": 432,
+        "rolls": 1,
+        "holds": 11
+    },
+    {
+        "chartName": "Ember Lights (SM)",
+        "folderName": "Ember Lights (SM 8)",
+        "steps": 399,
+        "rolls": 1,
+        "holds": 66
+    },
+    {
+        "chartName": "ERIS (SH)",
+        "folderName": "ERIS (SH 8)",
+        "steps": 384,
+        "rolls": 29,
+        "holds": 54
+    },
+    {
+        "chartName": "Exhaust Hype (SH)",
+        "folderName": "Exhaust Hype (SH 8)",
+        "steps": 461,
+        "rolls": 21,
+        "holds": 31
+    },
+    {
+        "chartName": "Festivo (SH)",
+        "folderName": "Festivo (SH 8)",
+        "steps": 423,
+        "rolls": 0,
+        "holds": 0
+    },
+    {
+        "chartName": "Future Candy (SM)",
+        "folderName": "Future Candy (SM 8)",
+        "steps": 424,
+        "rolls": 0,
+        "holds": 23
+    },
+    {
+        "chartName": "Glitched Character (SM)",
+        "folderName": "Glitched Character (SM 8)",
+        "steps": 512,
+        "rolls": 0,
+        "holds": 37
+    },
+    {
+        "chartName": "Heard Right (SH)",
+        "folderName": "Heard Right (SH 8)",
+        "steps": 369,
+        "rolls": 0,
+        "holds": 16
+    },
+    {
+        "chartName": "Houseplan (SH)",
+        "folderName": "Houseplan (SH 8)",
+        "steps": 409,
+        "rolls": 5,
+        "holds": 37
+    },
+    {
+        "chartName": "Magic Girl (SH)",
+        "folderName": "Magic Girl !! (SH 8)",
+        "steps": 413,
+        "rolls": 0,
+        "holds": 22
+    },
+    {
+        "chartName": "Marble Soda (SM)",
+        "folderName": "Marble Soda (SM 8)",
+        "steps": 478,
+        "rolls": 1,
+        "holds": 69
+    },
+    {
+        "chartName": "MASCARADA (SM)",
+        "folderName": "MASCARADA (SM 8)",
+        "steps": 460,
+        "rolls": 1,
+        "holds": 46
+    },
+    {
+        "chartName": "Neutrino (SM)",
+        "folderName": "Neutrino (SM 8)",
+        "steps": 312,
+        "rolls": 10,
+        "holds": 53
+    },
+    {
+        "chartName": "Papa Gonzales (SM)",
+        "folderName": "Papa Gonzales (SM 8)",
+        "steps": 284,
+        "rolls": 16,
+        "holds": 4
+    },
+    {
+        "chartName": "Passacaglia (SH)",
+        "folderName": "Passacaglia (J-Rave Mix) (SH 8)",
+        "steps": 406,
+        "rolls": 4,
+        "holds": 47
+    },
+    {
+        "chartName": "Procyon Knights (SH)",
+        "folderName": "Procyon Knights (SH 8)",
+        "steps": 416,
+        "rolls": 1,
+        "holds": 76
+    },
+    {
+        "chartName": "Salvation Flare (SM)",
+        "folderName": "Salvation Flare (SM 8)",
+        "steps": 397,
+        "rolls": 0,
+        "holds": 51
+    },
+    {
+        "chartName": "Sarutobi Champion is sessha (SM)",
+        "folderName": "Sarutobi Champion is sessha (SM 8)",
+        "steps": 353,
+        "rolls": 5,
+        "holds": 10
+    },
+    {
+        "chartName": "Sennen no Kotowari (SM)",
+        "folderName": "Sennen no Kotowari (SM 8)",
+        "steps": 422,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "Stamina (SH)",
+        "folderName": "Stamina (SH 8)",
+        "steps": 348,
+        "rolls": 12,
+        "holds": 38
+    },
+    {
+        "chartName": "Subtractive (SM)",
+        "folderName": "subtractive (SM 8)",
+        "steps": 407,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Vestigial Fusion Factory (SH)",
+        "folderName": "Vestigial Fusion Factory (SH 8)",
+        "steps": 443,
+        "rolls": 1,
+        "holds": 60
+    },
+    {
+        "chartName": "Vividparty (SM)",
+        "folderName": "Vividparty (SM 8)",
+        "steps": 414,
+        "rolls": 2,
+        "holds": 30
+    },
+    {
+        "chartName": "We Love Burning Town (SH)",
+        "folderName": "We Love Burning Town (SH 8)",
+        "steps": 342,
+        "rolls": 3,
+        "holds": 43
+    },
+    {
+        "chartName": "All My Friends",
+        "folderName": "All My Friends (SX 9)",
+        "steps": 557,
+        "rolls": 0,
+        "holds": 46
+    },
+    {
+        "chartName": "Animal Rights",
+        "folderName": "Animal Rights (SX 9)",
+        "steps": 423,
+        "rolls": 42,
+        "holds": 123
+    },
+    {
+        "chartName": "Automagic",
+        "folderName": "Automagic (SX 9)",
+        "steps": 564,
+        "rolls": 0,
+        "holds": 76
+    },
+    {
+        "chartName": "Baby Seal",
+        "folderName": "Baby Seal (SX 9)",
+        "steps": 561,
+        "rolls": 0,
+        "holds": 38
+    },
+    {
+        "chartName": "Blinding Lights",
+        "folderName": "Blinding Lights (SX 9)",
+        "steps": 540,
+        "rolls": 0,
+        "holds": 141
+    },
+    {
+        "chartName": "Blue Dragon",
+        "folderName": "Blue Dragon (SX 9)",
+        "steps": 552,
+        "rolls": 4,
+        "holds": 17
+    },
+    {
+        "chartName": "Blue to Blue",
+        "folderName": "Blue To Blue (SX 9)",
+        "steps": 539,
+        "rolls": 0,
+        "holds": 12
+    },
+    {
+        "chartName": "Boombayah",
+        "folderName": "Boombayah (SX 9)",
+        "steps": 584,
+        "rolls": 3,
+        "holds": 95
+    },
+    {
+        "chartName": "Bubble in the Air (SH)",
+        "folderName": "Bubble In The Air (SH 9)",
+        "steps": 536,
+        "rolls": 10,
+        "holds": 105
+    },
+    {
+        "chartName": "Cheat Codes (SH)",
+        "folderName": "Cheat Codes (SH 9)",
+        "steps": 518,
+        "rolls": 17,
+        "holds": 42
+    },
+    {
+        "chartName": "COOL_EXCEPTION (SM)",
+        "folderName": "COOL_EXCEPTION (SM 9)",
+        "steps": 546,
+        "rolls": 0,
+        "holds": 57
+    },
+    {
+        "chartName": "Dazzlin' Darling",
+        "folderName": "Dazzlin_ Darlin (SX 9)",
+        "steps": 428,
+        "rolls": 5,
+        "holds": 39
+    },
+    {
+        "chartName": "Dizzy",
+        "folderName": "Dizzy (SX 9)",
+        "steps": 512,
+        "rolls": 0,
+        "holds": 35
+    },
+    {
+        "chartName": "Don't Close Your Eyes",
+        "folderName": "Don't Close Your Eyes (SX 9)",
+        "steps": 558,
+        "rolls": 3,
+        "holds": 42
+    },
+    {
+        "chartName": "Don't Start Now",
+        "folderName": "Don't Start Now (SX 9)",
+        "steps": 534,
+        "rolls": 0,
+        "holds": 71
+    },
+    {
+        "chartName": "Drop Pop Candy",
+        "folderName": "drop pop candy (SX 9)",
+        "steps": 506,
+        "rolls": 6,
+        "holds": 105
+    },
+    {
+        "chartName": "Emergency",
+        "folderName": "Emergency (SX 9)",
+        "steps": 443,
+        "rolls": 0,
+        "holds": 59
+    },
+    {
+        "chartName": "Fallin' Deep",
+        "folderName": "Fallin' Deep (SX 9)",
+        "steps": 398,
+        "rolls": 0,
+        "holds": 71
+    },
+    {
+        "chartName": "Field of Hopes and Dreams",
+        "folderName": "Field of Hopes and Dreams (SX 9)",
+        "steps": 449,
+        "rolls": 0,
+        "holds": 82
+    },
+    {
+        "chartName": "giant otter family (SH)",
+        "folderName": "Giant Otter Family (SH 9)",
+        "steps": 562,
+        "rolls": 0,
+        "holds": 70
+    },
+    {
+        "chartName": "Hallelujah Essaim",
+        "folderName": "Hallelujah Essaim (SX 9)",
+        "steps": 598,
+        "rolls": 0,
+        "holds": 84
+    },
+    {
+        "chartName": "Highlight Zone",
+        "folderName": "Highlight Zone (SX 9)",
+        "steps": 585,
+        "rolls": 7,
+        "holds": 111
+    },
+    {
+        "chartName": "Humming",
+        "folderName": "Humming (SX 9)",
+        "steps": 492,
+        "rolls": 0,
+        "holds": 48
+    },
+    {
+        "chartName": "Kiss and Not Tell",
+        "folderName": "Kiss and Not Tell (SX 9)",
+        "steps": 585,
+        "rolls": 23,
+        "holds": 30
+    },
+    {
+        "chartName": "Kurobeni sukui",
+        "folderName": "Kurobeni sukui (SX 9)",
+        "steps": 469,
+        "rolls": 0,
+        "holds": 66
+    },
+    {
+        "chartName": "Life is Beautiful (SM)",
+        "folderName": "Life is Beautiful (SM 9)",
+        "steps": 492,
+        "rolls": 3,
+        "holds": 39
+    },
+    {
+        "chartName": "Light of My Life",
+        "folderName": "Light of my Life (SX 9)",
+        "steps": 385,
+        "rolls": 0,
+        "holds": 18
+    },
+    {
+        "chartName": "Limbo Dance",
+        "folderName": "Limbo Dance (SX 9)",
+        "steps": 563,
+        "rolls": 2,
+        "holds": 68
+    },
+    {
+        "chartName": "Liquid Moon",
+        "folderName": "Liquid Moon (SX 9)",
+        "steps": 412,
+        "rolls": 0,
+        "holds": 70
+    },
+    {
+        "chartName": "Pachuriko",
+        "folderName": "Pachuriko (katsu+sumijun R&B HOUSE Revival) (SX 9)",
+        "steps": 453,
+        "rolls": 3,
+        "holds": 56
+    },
+    {
+        "chartName": "Papayapa Bass (SH)",
+        "folderName": "PAPAYAPA BASS (SH 9)",
+        "steps": 510,
+        "rolls": 11,
+        "holds": 96
+    },
+    {
+        "chartName": "Pitagoras Kiss (SH)",
+        "folderName": "Pitagoras Kiss (SH 9)",
+        "steps": 516,
+        "rolls": 2,
+        "holds": 13
+    },
+    {
+        "chartName": "Poems are Forever",
+        "folderName": "Poems Are Forever (SX 9)",
+        "steps": 495,
+        "rolls": 2,
+        "holds": 55
+    },
+    {
+        "chartName": "Quick Attack (SH)",
+        "folderName": "Quick Attack (SH 9)",
+        "steps": 542,
+        "rolls": 29,
+        "holds": 59
+    },
+    {
+        "chartName": "sink into the dream (SH)",
+        "folderName": "sink into the dream (SH 9)",
+        "steps": 463,
+        "rolls": 0,
+        "holds": 14
+    },
+    {
+        "chartName": "Skipping Rope (SH)",
+        "folderName": "Skipping Rope (SH 9)",
+        "steps": 515,
+        "rolls": 2,
+        "holds": 64
+    },
+    {
+        "chartName": "Something Real",
+        "folderName": "Something Real (SX 9)",
+        "steps": 434,
+        "rolls": 8,
+        "holds": 107
+    },
+    {
+        "chartName": "Surf",
+        "folderName": "Surf (SX 9)",
+        "steps": 490,
+        "rolls": 3,
+        "holds": 135
+    },
+    {
+        "chartName": "Swamp Thing (SH)",
+        "folderName": "Swamp Thing (SH 9)",
+        "steps": 527,
+        "rolls": 0,
+        "holds": 24
+    },
+    {
+        "chartName": "Swirl",
+        "folderName": "Swirl (SX 9)",
+        "steps": 514,
+        "rolls": 0,
+        "holds": 17
+    },
+    {
+        "chartName": "Timekeeper's Song",
+        "folderName": "Timekeeper's Song (SX 9)",
+        "steps": 454,
+        "rolls": 5,
+        "holds": 27
+    },
+    {
+        "chartName": "Vampire Killer (SH)",
+        "folderName": "Vampire Killer (scar-ed Pf rmx) (SH 9)",
+        "steps": 524,
+        "rolls": 4,
+        "holds": 64
+    },
+    {
+        "chartName": "wild card (SH)",
+        "folderName": "Wild Card (SH 9)",
+        "steps": 513,
+        "rolls": 4,
+        "holds": 64
+    },
+    {
+        "chartName": "Zodiac",
+        "folderName": "Zodiac (SX 9)",
+        "steps": 473,
+        "rolls": 0,
+        "holds": 72
+    },
+    {
+        "chartName": "24K Magic (PrototypeRaptor Remix)",
+        "folderName": "24K Magic (PrototypeRaptor Remix) (SX 10)",
+        "steps": 677,
+        "rolls": 3,
+        "holds": 95
+    },
+    {
+        "chartName": "39 Music!",
+        "folderName": "39 Music! (SX 10)",
+        "steps": 600,
+        "rolls": 2,
+        "holds": 65
+    },
+    {
+        "chartName": "Alive (Vonikk Remix)",
+        "folderName": "Alive (Vonikk Remix) (SX 10)",
+        "steps": 643,
+        "rolls": 2,
+        "holds": 34
+    },
+    {
+        "chartName": "Antithese",
+        "folderName": "Antithese (SX 10)",
+        "steps": 662,
+        "rolls": 0,
+        "holds": 23
+    },
+    {
+        "chartName": "Arcanes (Revised)",
+        "folderName": "Arcanes (SX 10)",
+        "steps": 492,
+        "rolls": 6,
+        "holds": 53
+    },
+    {
+        "chartName": "Automatic",
+        "folderName": "Automatic (SX 10)",
+        "steps": 448,
+        "rolls": 2,
+        "holds": 82
+    },
+    {
+        "chartName": "BOSSY",
+        "folderName": "BOSSY (SX 10)",
+        "steps": 627,
+        "rolls": 29,
+        "holds": 49
+    },
+    {
+        "chartName": "Bustin",
+        "folderName": "Bustin (SX 10)",
+        "steps": 615,
+        "rolls": 4,
+        "holds": 67
+    },
+    {
+        "chartName": "Came to Get Funky",
+        "folderName": "Came to Get Funky (SX 10)",
+        "steps": 560,
+        "rolls": 1,
+        "holds": 52
+    },
+    {
+        "chartName": "Candy Carousel",
+        "folderName": "Candy Carousel (SX 10)",
+        "steps": 634,
+        "rolls": 0,
+        "holds": 50
+    },
+    {
+        "chartName": "cat's magic",
+        "folderName": "cat's magic (SX 10)",
+        "steps": 580,
+        "rolls": 8,
+        "holds": 54
+    },
+    {
+        "chartName": "Caught Red Handed",
+        "folderName": "Caught Red Handed (SX 10)",
+        "steps": 448,
+        "rolls": 2,
+        "holds": 26
+    },
+    {
+        "chartName": "Chimera",
+        "folderName": "Chimera (SX 10)",
+        "steps": 459,
+        "rolls": 14,
+        "holds": 56
+    },
+    {
+        "chartName": "Coffee Break",
+        "folderName": "Coffee Break (SX 10)",
+        "steps": 652,
+        "rolls": 43,
+        "holds": 63
+    },
+    {
+        "chartName": "Come & Get It",
+        "folderName": "Come and Get It (Razihel Remix) (SX 10)",
+        "steps": 556,
+        "rolls": 10,
+        "holds": 65
+    },
+    {
+        "chartName": "Conga",
+        "folderName": "Conga (SX 10)",
+        "steps": 561,
+        "rolls": 0,
+        "holds": 31
+    },
+    {
+        "chartName": "corona (199x fusion remix)",
+        "folderName": "corona (199x fusion remix) (SX 10)",
+        "steps": 635,
+        "rolls": 0,
+        "holds": 81
+    },
+    {
+        "chartName": "Critical Hit",
+        "folderName": "Critical Hit (SX 10)",
+        "steps": 585,
+        "rolls": 9,
+        "holds": 73
+    },
+    {
+        "chartName": "Da Mines",
+        "folderName": "Da Mines (SX 10)",
+        "steps": 534,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "Dancer in the flare",
+        "folderName": "Dancer in the flare (SX 10)",
+        "steps": 500,
+        "rolls": 13,
+        "holds": 60
+    },
+    {
+        "chartName": "Deceptive",
+        "folderName": "Deceptive (SX 10)",
+        "steps": 600,
+        "rolls": 25,
+        "holds": 81
+    },
+    {
+        "chartName": "Deep Down Low",
+        "folderName": "Deep Down Low (Gillepsy Remix) (SX 10)",
+        "steps": 630,
+        "rolls": 1,
+        "holds": 41
+    },
+    {
+        "chartName": "Disco Light",
+        "folderName": "Disco Light (SX 10)",
+        "steps": 554,
+        "rolls": 14,
+        "holds": 85
+    },
+    {
+        "chartName": "Downer and Upper",
+        "folderName": "Downer & Upper (SX 10)",
+        "steps": 440,
+        "rolls": 6,
+        "holds": 83
+    },
+    {
+        "chartName": "Electric Dance System Music",
+        "folderName": "Electric Dance System Music (SX 10)",
+        "steps": 523,
+        "rolls": 1,
+        "holds": 85
+    },
+    {
+        "chartName": "Electronized",
+        "folderName": "Electronized (SX 10)",
+        "steps": 637,
+        "rolls": 0,
+        "holds": 19
+    },
+    {
+        "chartName": "Far e@st network",
+        "folderName": "Far e@st network (SX 10)",
+        "steps": 540,
+        "rolls": 0,
+        "holds": 6
+    },
+    {
+        "chartName": "Fuck Gravity",
+        "folderName": "Fuck Gravity (SX 10)",
+        "steps": 630,
+        "rolls": 10,
+        "holds": 80
+    },
+    {
+        "chartName": "Glacier",
+        "folderName": "Glacier (SX 10)",
+        "steps": 597,
+        "rolls": 5,
+        "holds": 38
+    },
+    {
+        "chartName": "Glitchtastic",
+        "folderName": "Glitchtastic (SX 10)",
+        "steps": 537,
+        "rolls": 4,
+        "holds": 69
+    },
+    {
+        "chartName": "Go Go Girls&Boys!",
+        "folderName": "Go Go Girls&Boys! (SX 10)",
+        "steps": 599,
+        "rolls": 3,
+        "holds": 87
+    },
+    {
+        "chartName": "Golden Palms",
+        "folderName": "Golden Palms (SX 10)",
+        "steps": 615,
+        "rolls": 1,
+        "holds": 43
+    },
+    {
+        "chartName": "Groovin King",
+        "folderName": "Groovin King (SX 10)",
+        "steps": 636,
+        "rolls": 6,
+        "holds": 90
+    },
+    {
+        "chartName": "Heart Beat Formula (Vinyl Mix)",
+        "folderName": "Heart Beat Formula (Vinyl Mix) (SX 10)",
+        "steps": 373,
+        "rolls": 2,
+        "holds": 46
+    },
+    {
+        "chartName": "Hold Up",
+        "folderName": "Hold Up (SX 10)",
+        "steps": 450,
+        "rolls": 2,
+        "holds": 48
+    },
+    {
+        "chartName": "In the Museum",
+        "folderName": "In the Museum (SX 10)",
+        "steps": 508,
+        "rolls": 20,
+        "holds": 34
+    },
+    {
+        "chartName": "Juicy Wiggle",
+        "folderName": "Juicy Wiggle (SX 10)",
+        "steps": 629,
+        "rolls": 3,
+        "holds": 30
+    },
+    {
+        "chartName": "Jump Ya Body",
+        "folderName": "Jump Ya Body (SX 10)",
+        "steps": 599,
+        "rolls": 16,
+        "holds": 54
+    },
+    {
+        "chartName": "Jurassic Snack Pack",
+        "folderName": "Jurassic Snack Pack (SX 10)",
+        "steps": 599,
+        "rolls": 2,
+        "holds": 75
+    },
+    {
+        "chartName": "Kaede",
+        "folderName": "Kaede (SX 10)",
+        "steps": 587,
+        "rolls": 10,
+        "holds": 74
+    },
+    {
+        "chartName": "Kind Lady Interlude (2008 Extended)",
+        "folderName": "Kind Lady Interlude (2008 Extended Mix) (SX 10)",
+        "steps": 705,
+        "rolls": 9,
+        "holds": 116
+    },
+    {
+        "chartName": "King Conga",
+        "folderName": "King Conga (SX 10)",
+        "steps": 537,
+        "rolls": 0,
+        "holds": 24
+    },
+    {
+        "chartName": "King Monkey",
+        "folderName": "King Monkey (SX 10)",
+        "steps": 456,
+        "rolls": 2,
+        "holds": 28
+    },
+    {
+        "chartName": "Konoyo Loading",
+        "folderName": "Konoyo Loading (SX 10)",
+        "steps": 557,
+        "rolls": 3,
+        "holds": 25
+    },
+    {
+        "chartName": "Love or Lies",
+        "folderName": "Love or Lies (SX 10)",
+        "steps": 636,
+        "rolls": 0,
+        "holds": 15
+    },
+    {
+        "chartName": "Mad5cience",
+        "folderName": "Mad5cience (SX 10)",
+        "steps": 516,
+        "rolls": 11,
+        "holds": 53
+    },
+    {
+        "chartName": "Make Eggs Eat Eggs",
+        "folderName": "Make Eggs, Eat Eggs (SX 10)",
+        "steps": 621,
+        "rolls": 0,
+        "holds": 103
+    },
+    {
+        "chartName": "Midnight Datenshi",
+        "folderName": "Midnight Datenshi (SX 10)",
+        "steps": 622,
+        "rolls": 15,
+        "holds": 52
+    },
+    {
+        "chartName": "Midnight Hour",
+        "folderName": "Midnight Hour (SX 10)",
+        "steps": 687,
+        "rolls": 0,
+        "holds": 50
+    },
+    {
+        "chartName": "Monkey Dance",
+        "folderName": "Monkey Dance (SX 10)",
+        "steps": 528,
+        "rolls": 0,
+        "holds": 48
+    },
+    {
+        "chartName": "Mr. Toot",
+        "folderName": "Mr. Toot (SX 10)",
+        "steps": 481,
+        "rolls": 2,
+        "holds": 42
+    },
+    {
+        "chartName": "Never Let Me Go",
+        "folderName": "Never Let Me Go (SX 10)",
+        "steps": 490,
+        "rolls": 9,
+        "holds": 32
+    },
+    {
+        "chartName": "Oboro",
+        "folderName": "Oboro (SX 10)",
+        "steps": 584,
+        "rolls": 0,
+        "holds": 55
+    },
+    {
+        "chartName": "Pop It (Shirobon Remix)",
+        "folderName": "Pop It (Shirobon Remix) (SX 10)",
+        "steps": 537,
+        "rolls": 3,
+        "holds": 59
+    },
+    {
+        "chartName": "Poppin' (mashup)",
+        "folderName": "Poppin' (Mashup) (SX 10)",
+        "steps": 544,
+        "rolls": 8,
+        "holds": 20
+    },
+    {
+        "chartName": "Pump it back",
+        "folderName": "Pump it back (SX 10)",
+        "steps": 578,
+        "rolls": 2,
+        "holds": 21
+    },
+    {
+        "chartName": "QUAKE",
+        "folderName": "QUAKE (SX 10)",
+        "steps": 501,
+        "rolls": 2,
+        "holds": 85
+    },
+    {
+        "chartName": "Raichu",
+        "folderName": "Raichu (SX 10)",
+        "steps": 426,
+        "rolls": 2,
+        "holds": 23
+    },
+    {
+        "chartName": "Rainbowful Gates",
+        "folderName": "Rainbowful Gates (SX 10)",
+        "steps": 661,
+        "rolls": 0,
+        "holds": 38
+    },
+    {
+        "chartName": "Samplinglitch",
+        "folderName": "Samplinglitch (SX 10)",
+        "steps": 635,
+        "rolls": 3,
+        "holds": 65
+    },
+    {
+        "chartName": "Shred",
+        "folderName": "Shred (SX 10)",
+        "steps": 406,
+        "rolls": 3,
+        "holds": 40
+    },
+    {
+        "chartName": "South wind",
+        "folderName": "South wind (SX 10)",
+        "steps": 590,
+        "rolls": 0,
+        "holds": 74
+    },
+    {
+        "chartName": "Space Dog Escape Pod",
+        "folderName": "Space Dog Escape Pod (SX 10)",
+        "steps": 536,
+        "rolls": 0,
+        "holds": 49
+    },
+    {
+        "chartName": "Speed Complex",
+        "folderName": "Speed Complex (SX 10)",
+        "steps": 653,
+        "rolls": 3,
+        "holds": 61
+    },
+    {
+        "chartName": "stitch'step",
+        "folderName": "stitch'step (SX 10)",
+        "steps": 604,
+        "rolls": 0,
+        "holds": 21
+    },
+    {
+        "chartName": "Talli Hua (Jay Dabhi Mix)",
+        "folderName": "Talli Hua (Jay Dabhi Mix) (SX 10)",
+        "steps": 584,
+        "rolls": 3,
+        "holds": 49
+    },
+    {
+        "chartName": "Theme of Zangief",
+        "folderName": "Theme of Zangief (SX 10)",
+        "steps": 426,
+        "rolls": 0,
+        "holds": 81
+    },
+    {
+        "chartName": "Time",
+        "folderName": "TiME (SX 10)",
+        "steps": 711,
+        "rolls": 0,
+        "holds": 67
+    },
+    {
+        "chartName": "Time for Tea (Melbourne Swing Mix)",
+        "folderName": "Time for Tea (Melbourne Swing Mix) (SX 10)",
+        "steps": 608,
+        "rolls": 3,
+        "holds": 96
+    },
+    {
+        "chartName": "Time to Oil Up",
+        "folderName": "Time to Oil Up (SX 10)",
+        "steps": 615,
+        "rolls": 0,
+        "holds": 5
+    },
+    {
+        "chartName": "Tizona d'El Cid",
+        "folderName": "Tizona d'El Cid (SX 10)",
+        "steps": 423,
+        "rolls": 0,
+        "holds": 89
+    },
+    {
+        "chartName": "U Got Me Rocking",
+        "folderName": "U Got Me Rocking (SX 10)",
+        "steps": 606,
+        "rolls": 7,
+        "holds": 24
+    },
+    {
+        "chartName": "Ultimate Battle",
+        "folderName": "Ultimate Battle (SX 10)",
+        "steps": 663,
+        "rolls": 1,
+        "holds": 75
+    },
+    {
+        "chartName": "Ultramarine",
+        "folderName": "Ultramarine (SX 10)",
+        "steps": 461,
+        "rolls": 2,
+        "holds": 57
+    },
+    {
+        "chartName": "Umbral",
+        "folderName": "Umbral (SX 10)",
+        "steps": 557,
+        "rolls": 0,
+        "holds": 18
+    },
+    {
+        "chartName": "Wandering (VIP)",
+        "folderName": "Wandering (VIP) (SX 10)",
+        "steps": 525,
+        "rolls": 4,
+        "holds": 93
+    },
+    {
+        "chartName": "We Got That Cool",
+        "folderName": "We Got That Cool (SX 10)",
+        "steps": 549,
+        "rolls": 0,
+        "holds": 65
+    },
+    {
+        "chartName": "Where Do You Go",
+        "folderName": "Where Do You Go (SX 10)",
+        "steps": 620,
+        "rolls": 1,
+        "holds": 87
+    },
+    {
+        "chartName": "Witchcraft Butterfly",
+        "folderName": "Witchcraft Butterfly (SX 10)",
+        "steps": 558,
+        "rolls": 0,
+        "holds": 94
+    },
+    {
+        "chartName": "With You",
+        "folderName": "With You (SX 10)",
+        "steps": 645,
+        "rolls": 40,
+        "holds": 38
+    },
+    {
+        "chartName": "Zombie Stomp",
+        "folderName": "Zombie Stomp (SX 10)",
+        "steps": 526,
+        "rolls": 8,
+        "holds": 23
+    },
+    {
+        "chartName": "9mm",
+        "folderName": "9mm (SX 11)",
+        "steps": 678,
+        "rolls": 4,
+        "holds": 54
+    },
+    {
+        "chartName": "Act Beloved",
+        "folderName": "Act Beloved (SX 11)",
+        "steps": 790,
+        "rolls": 0,
+        "holds": 73
+    },
+    {
+        "chartName": "AFRO KNUCKLE",
+        "folderName": "AFRO KNUCKLE (SX 11)",
+        "steps": 692,
+        "rolls": 0,
+        "holds": 121
+    },
+    {
+        "chartName": "Alstroemeria",
+        "folderName": "Alstroemeria (SX 11)",
+        "steps": 740,
+        "rolls": 2,
+        "holds": 74
+    },
+    {
+        "chartName": "Armor Armarge Stage",
+        "folderName": "Armor Armarge Stage (SX 11)",
+        "steps": 755,
+        "rolls": 0,
+        "holds": 84
+    },
+    {
+        "chartName": "Ave de Rapina (OLD)",
+        "folderName": "Ave de Rapina (SX 11)",
+        "steps": 578,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Ave de Rapina (UPDATED)",
+        "folderName": "Ave de Rapina (SX 11)",
+        "steps": 579,
+        "rolls": 0,
+        "holds": 28
+    },
+    {
+        "chartName": "B4U Glorious Style",
+        "folderName": "B4U Glorious Style (SX 11)",
+        "steps": 779,
+        "rolls": 0,
+        "holds": 2
+    },
+    {
+        "chartName": "Bad Intentions",
+        "folderName": "Bad Intentions (SX 11)",
+        "steps": 717,
+        "rolls": 57,
+        "holds": 90
+    },
+    {
+        "chartName": "Beach Episode",
+        "folderName": "Beach Episode (SX 11)",
+        "steps": 756,
+        "rolls": 2,
+        "holds": 94
+    },
+    {
+        "chartName": "Binary",
+        "folderName": "Binary (SX 11)",
+        "steps": 661,
+        "rolls": 21,
+        "holds": 62
+    },
+    {
+        "chartName": "Black Jackal",
+        "folderName": "BLACK JACKAL (SX 11)",
+        "steps": 671,
+        "rolls": 7,
+        "holds": 14
+    },
+    {
+        "chartName": "Boss Rush",
+        "folderName": "Boss Rush (SX 11)",
+        "steps": 581,
+        "rolls": 21,
+        "holds": 41
+    },
+    {
+        "chartName": "Bubbly Time",
+        "folderName": "Bubbly Time (SX 11)",
+        "steps": 525,
+        "rolls": 5,
+        "holds": 63
+    },
+    {
+        "chartName": "Cheat Codes",
+        "folderName": "Cheat Codes (SX 11)",
+        "steps": 602,
+        "rolls": 5,
+        "holds": 42
+    },
+    {
+        "chartName": "City Never Sleeps",
+        "folderName": "City Never Sleeps (SX 11)",
+        "steps": 542,
+        "rolls": 0,
+        "holds": 43
+    },
+    {
+        "chartName": "Clockwork Genesis",
+        "folderName": "Clockwork Genesis (SX 11)",
+        "steps": 527,
+        "rolls": 0,
+        "holds": 56
+    },
+    {
+        "chartName": "Coffee Stomp",
+        "folderName": "Coffee Stomp (SX 11)",
+        "steps": 846,
+        "rolls": 3,
+        "holds": 36
+    },
+    {
+        "chartName": "Cool Me Mebbe (SH)",
+        "folderName": "Cool Me Mebbe (SH 11)",
+        "steps": 757,
+        "rolls": 9,
+        "holds": 47
+    },
+    {
+        "chartName": "Cyber Stream",
+        "folderName": "Cyber Stream (SX 11)",
+        "steps": 548,
+        "rolls": 13,
+        "holds": 77
+    },
+    {
+        "chartName": "Dalmatian Station",
+        "folderName": "Dalmatian Station (SX 11)",
+        "steps": 663,
+        "rolls": 3,
+        "holds": 69
+    },
+    {
+        "chartName": "Dirty Pop",
+        "folderName": "Dirty Pop (SX 11)",
+        "steps": 549,
+        "rolls": 1,
+        "holds": 94
+    },
+    {
+        "chartName": "Dog Days",
+        "folderName": "Dog Days (SX 11)",
+        "steps": 735,
+        "rolls": 1,
+        "holds": 77
+    },
+    {
+        "chartName": "Drunkenstein",
+        "folderName": "DrunkenStein (SX 11)",
+        "steps": 659,
+        "rolls": 2,
+        "holds": 63
+    },
+    {
+        "chartName": "Ember Lights",
+        "folderName": "Ember Lights (SX 11)",
+        "steps": 594,
+        "rolls": 1,
+        "holds": 79
+    },
+    {
+        "chartName": "Exhaust Hype",
+        "folderName": "Exhaust Hype (SX 11)",
+        "steps": 708,
+        "rolls": 9,
+        "holds": 35
+    },
+    {
+        "chartName": "Fantastic Nxxd Baby",
+        "folderName": "Fantastic Nxxd Baby (SX 11)",
+        "steps": 645,
+        "rolls": 6,
+        "holds": 36
+    },
+    {
+        "chartName": "Festivo",
+        "folderName": "Festivo (SX 11)",
+        "steps": 641,
+        "rolls": 0,
+        "holds": 4
+    },
+    {
+        "chartName": "Fire Inside",
+        "folderName": "Fire Inside (SX 11)",
+        "steps": 698,
+        "rolls": 40,
+        "holds": 16
+    },
+    {
+        "chartName": "Fire Starter",
+        "folderName": "Fire Starter (SX 11)",
+        "steps": 848,
+        "rolls": 6,
+        "holds": 63
+    },
+    {
+        "chartName": "Flash Dungeon",
+        "folderName": "Flash Dungeon (SX 11)",
+        "steps": 835,
+        "rolls": 7,
+        "holds": 99
+    },
+    {
+        "chartName": "Flashdance",
+        "folderName": "Flashdance (SX 11)",
+        "steps": 612,
+        "rolls": 8,
+        "holds": 38
+    },
+    {
+        "chartName": "Fresh It Up!!",
+        "folderName": "Fresh It Up!!! (SX 11)",
+        "steps": 651,
+        "rolls": 0,
+        "holds": 37
+    },
+    {
+        "chartName": "Hastur",
+        "folderName": "Hastur (SX 11)",
+        "steps": 627,
+        "rolls": 0,
+        "holds": 19
+    },
+    {
+        "chartName": "Heard Right",
+        "folderName": "Heard Right (SX 11)",
+        "steps": 706,
+        "rolls": 40,
+        "holds": 6
+    },
+    {
+        "chartName": "Hell's Sun",
+        "folderName": "Hell's Sun (SX 11)",
+        "steps": 558,
+        "rolls": 5,
+        "holds": 42
+    },
+    {
+        "chartName": "Hella Deep",
+        "folderName": "Hella Deep (SX 11)",
+        "steps": 576,
+        "rolls": 12,
+        "holds": 11
+    },
+    {
+        "chartName": "Highscore",
+        "folderName": "Highscore (SX 11)",
+        "steps": 655,
+        "rolls": 8,
+        "holds": 77
+    },
+    {
+        "chartName": "Hitch Hiker2",
+        "folderName": "Hitch Hiker2 (SX 11)",
+        "steps": 631,
+        "rolls": 7,
+        "holds": 22
+    },
+    {
+        "chartName": "House With Legs",
+        "folderName": "House With Legs (SX 11)",
+        "steps": 665,
+        "rolls": 9,
+        "holds": 66
+    },
+    {
+        "chartName": "How We Win",
+        "folderName": "How We Win (SX 11)",
+        "steps": 549,
+        "rolls": 7,
+        "holds": 70
+    },
+    {
+        "chartName": "Immortal Ribbon",
+        "folderName": "Immortal Ribbon (SX 11)",
+        "steps": 681,
+        "rolls": 0,
+        "holds": 47
+    },
+    {
+        "chartName": "In the Breeze",
+        "folderName": "In the Breeze (SX 11)",
+        "steps": 548,
+        "rolls": 5,
+        "holds": 21
+    },
+    {
+        "chartName": "Insane Techniques",
+        "folderName": "Insane Techniques (SX 11)",
+        "steps": 631,
+        "rolls": 7,
+        "holds": 47
+    },
+    {
+        "chartName": "Jeetvak",
+        "folderName": "Jeetvak (SX 11)",
+        "steps": 650,
+        "rolls": 2,
+        "holds": 9
+    },
+    {
+        "chartName": "K-Pop Culture",
+        "folderName": "K-Pop Culture (SX 11)",
+        "steps": 544,
+        "rolls": 2,
+        "holds": 32
+    },
+    {
+        "chartName": "Koto",
+        "folderName": "Koto (SX 11)",
+        "steps": 565,
+        "rolls": 5,
+        "holds": 21
+    },
+    {
+        "chartName": "Kotobuki",
+        "folderName": "Kotobuki (SX 11)",
+        "steps": 575,
+        "rolls": 7,
+        "holds": 7
+    },
+    {
+        "chartName": "Last Message",
+        "folderName": "Last Message (SX 11)",
+        "steps": 565,
+        "rolls": 3,
+        "holds": 122
+    },
+    {
+        "chartName": "Like a Lady",
+        "folderName": "Like a Lady (SX 11)",
+        "steps": 720,
+        "rolls": 17,
+        "holds": 89
+    },
+    {
+        "chartName": "Marble Soda",
+        "folderName": "Marble Soda (SX 11)",
+        "steps": 641,
+        "rolls": 11,
+        "holds": 92
+    },
+    {
+        "chartName": "Master 4 Samplers",
+        "folderName": "Master 4 Samplers (SX 11)",
+        "steps": 741,
+        "rolls": 1,
+        "holds": 59
+    },
+    {
+        "chartName": "Metro Night",
+        "folderName": "Metro Night (SX 11)",
+        "steps": 752,
+        "rolls": 7,
+        "holds": 23
+    },
+    {
+        "chartName": "Midnight Lady",
+        "folderName": "Midnight Lady (SX 11)",
+        "steps": 621,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "Oboro (dj TAKA Remix)",
+        "folderName": "Oboro (dj TAKA Remix) (SX 11)",
+        "steps": 572,
+        "rolls": 7,
+        "holds": 69
+    },
+    {
+        "chartName": "On Fire",
+        "folderName": "On Fire (SX 11)",
+        "steps": 728,
+        "rolls": 0,
+        "holds": 3
+    },
+    {
+        "chartName": "Panjandrum",
+        "folderName": "Panjandrum (SX 11)",
+        "steps": 674,
+        "rolls": 2,
+        "holds": 45
+    },
+    {
+        "chartName": "Pitagoras Kiss",
+        "folderName": "Pitagoras Kiss (SX 11)",
+        "steps": 701,
+        "rolls": 3,
+        "holds": 15
+    },
+    {
+        "chartName": "Pulse Wave Intensifies",
+        "folderName": "-Pulse Wave Intensifies- (SX 11)",
+        "steps": 739,
+        "rolls": 4,
+        "holds": 81
+    },
+    {
+        "chartName": "Push The Fader",
+        "folderName": "Push The Fader (SX 11)",
+        "steps": 688,
+        "rolls": 0,
+        "holds": 46
+    },
+    {
+        "chartName": "Qi",
+        "folderName": "Qi (SX 11)",
+        "steps": 556,
+        "rolls": 12,
+        "holds": 29
+    },
+    {
+        "chartName": "Quality Control",
+        "folderName": "Quality Control (SX 11)",
+        "steps": 771,
+        "rolls": 0,
+        "holds": 68
+    },
+    {
+        "chartName": "Random Box",
+        "folderName": "Random Box (SX 11)",
+        "steps": 684,
+        "rolls": 0,
+        "holds": 40
+    },
+    {
+        "chartName": "Reason for Red",
+        "folderName": "REASON for RED (SX 11)",
+        "steps": 719,
+        "rolls": 0,
+        "holds": 36
+    },
+    {
+        "chartName": "Robot Language",
+        "folderName": "Robot Language (SX 11)",
+        "steps": 595,
+        "rolls": 1,
+        "holds": 92
+    },
+    {
+        "chartName": "Robot Love",
+        "folderName": "Robot Love (SX 11)",
+        "steps": 576,
+        "rolls": 5,
+        "holds": 91
+    },
+    {
+        "chartName": "Running",
+        "folderName": "Running (SX 11)",
+        "steps": 694,
+        "rolls": 0,
+        "holds": 5
+    },
+    {
+        "chartName": "Save Miracles",
+        "folderName": "Save Miracles (SX 11)",
+        "steps": 608,
+        "rolls": 8,
+        "holds": 63
+    },
+    {
+        "chartName": "Settle it in Smash",
+        "folderName": "Settle it in Smash (SX 11)",
+        "steps": 706,
+        "rolls": 2,
+        "holds": 41
+    },
+    {
+        "chartName": "Shout",
+        "folderName": "Shout (SX 11)",
+        "steps": 704,
+        "rolls": 0,
+        "holds": 100
+    },
+    {
+        "chartName": "Sink into a dream",
+        "folderName": "sink into the dream (SX 11)",
+        "steps": 705,
+        "rolls": 0,
+        "holds": 32
+    },
+    {
+        "chartName": "So Damn Tough",
+        "folderName": "So Damn Tough (SX 11)",
+        "steps": 868,
+        "rolls": 6,
+        "holds": 65
+    },
+    {
+        "chartName": "Speed Rocker",
+        "folderName": "Speed Rocker (SX 11)",
+        "steps": 666,
+        "rolls": 6,
+        "holds": 35
+    },
+    {
+        "chartName": "spring pony",
+        "folderName": "spring pony (SX 11)",
+        "steps": 627,
+        "rolls": 1,
+        "holds": 19
+    },
+    {
+        "chartName": "Swamp Thing",
+        "folderName": "Swamp Thing (SX 11)",
+        "steps": 695,
+        "rolls": 14,
+        "holds": 38
+    },
+    {
+        "chartName": "Tesseract",
+        "folderName": "Tesseract (SX 11)",
+        "steps": 779,
+        "rolls": 12,
+        "holds": 101
+    },
+    {
+        "chartName": "The Lone Slim Shady",
+        "folderName": "The Lone Slim Shady (SX 11)",
+        "steps": 961,
+        "rolls": 2,
+        "holds": 40
+    },
+    {
+        "chartName": "The Queen",
+        "folderName": "The Queen (SX 11)",
+        "steps": 688,
+        "rolls": 3,
+        "holds": 78
+    },
+    {
+        "chartName": "This Will Be The Day (remix)",
+        "folderName": "This Will Be the Day (remix) (SX 11)",
+        "steps": 666,
+        "rolls": 0,
+        "holds": 116
+    },
+    {
+        "chartName": "Tokamak",
+        "folderName": "Tokamak (SX 11)",
+        "steps": 539,
+        "rolls": 0,
+        "holds": 41
+    },
+    {
+        "chartName": "Valhalla",
+        "folderName": "Valhalla (SX 11)",
+        "steps": 743,
+        "rolls": 4,
+        "holds": 59
+    },
+    {
+        "chartName": "Virus Funk",
+        "folderName": "Virus Funk (SX 11)",
+        "steps": 650,
+        "rolls": 8,
+        "holds": 114
+    },
+    {
+        "chartName": "We Love Burning Town",
+        "folderName": "We Love Burning Town (SX 11)",
+        "steps": 551,
+        "rolls": 1,
+        "holds": 56
+    },
+    {
+        "chartName": "Work (Steve Pilton & Max Sanna Remix)",
+        "folderName": "Work (Steve Pilton & Max Sanna Remix) (SX 11)",
+        "steps": 775,
+        "rolls": 2,
+        "holds": 123
+    },
+    {
+        "chartName": "Y.E.A.H.",
+        "folderName": "Y.E.A.H (SX 11)",
+        "steps": 701,
+        "rolls": 2,
+        "holds": 78
+    },
+    {
+        "chartName": "Zora",
+        "folderName": "Zora (SX 11)",
+        "steps": 642,
+        "rolls": 21,
+        "holds": 36
+    },
+    {
+        "chartName": "& Intelligence",
+        "folderName": "and Intelligence (SX 12)",
+        "steps": 758,
+        "rolls": 2,
+        "holds": 61
+    },
+    {
+        "chartName": "7 Colors",
+        "folderName": "7 Colors (SX 12)",
+        "steps": 620,
+        "rolls": 0,
+        "holds": 71
+    },
+    {
+        "chartName": "Airtraveler",
+        "folderName": "Airtraveler (SX 12)",
+        "steps": 723,
+        "rolls": 1,
+        "holds": 43
+    },
+    {
+        "chartName": "Amazing Mirage (no 24ths)",
+        "folderName": "Amazing Mirage (SX 12)",
+        "steps": 766,
+        "rolls": 5,
+        "holds": 19
+    },
+    {
+        "chartName": "Back to the Future",
+        "folderName": "Back To The Future (SX 12)",
+        "steps": 692,
+        "rolls": 9,
+        "holds": 19
+    },
+    {
+        "chartName": "Beyond the Power",
+        "folderName": "Beyond the Power (SX 12)",
+        "steps": 851,
+        "rolls": 1,
+        "holds": 109
+    },
+    {
+        "chartName": "Binary (remix)",
+        "folderName": "Binary (Remix) (SX 12)",
+        "steps": 694,
+        "rolls": 27,
+        "holds": 34
+    },
+    {
+        "chartName": "Bloodrush",
+        "folderName": "Bloodrush (SX 12)",
+        "steps": 724,
+        "rolls": 0,
+        "holds": 79
+    },
+    {
+        "chartName": "Bomb-Sniffing Pomeranian",
+        "folderName": "Bomb-Sniffing Pomeranian (SX 12)",
+        "steps": 876,
+        "rolls": 3,
+        "holds": 72
+    },
+    {
+        "chartName": "Brain System",
+        "folderName": "Brain System (SX 12)",
+        "steps": 741,
+        "rolls": 4,
+        "holds": 25
+    },
+    {
+        "chartName": "CENSORED!!",
+        "folderName": "Censored!! (SX 12)",
+        "steps": 804,
+        "rolls": 0,
+        "holds": 74
+    },
+    {
+        "chartName": "Cloud 9",
+        "folderName": "Cloud 9 (SX 12)",
+        "steps": 694,
+        "rolls": 19,
+        "holds": 54
+    },
+    {
+        "chartName": "Cosmic Invaders",
+        "folderName": "Cosmic Invaders (SX 12)",
+        "steps": 875,
+        "rolls": 12,
+        "holds": 152
+    },
+    {
+        "chartName": "Cowbell Rock",
+        "folderName": "Cowbell Rock (SX 12)",
+        "steps": 776,
+        "rolls": 34,
+        "holds": 33
+    },
+    {
+        "chartName": "Danger Drug",
+        "folderName": "Danger Drug (SX 12)",
+        "steps": 841,
+        "rolls": 24,
+        "holds": 92
+    },
+    {
+        "chartName": "Dead Music",
+        "folderName": "Dead Music (SX 12)",
+        "steps": 859,
+        "rolls": 14,
+        "holds": 92
+    },
+    {
+        "chartName": "Debug Dance",
+        "folderName": "Debug Dance (SX 12)",
+        "steps": 778,
+        "rolls": 2,
+        "holds": 76
+    },
+    {
+        "chartName": "Dish Girl",
+        "folderName": "Dish Girl (SX 12)",
+        "steps": 762,
+        "rolls": 0,
+        "holds": 72
+    },
+    {
+        "chartName": "Electrical Paradise",
+        "folderName": "Electrical Paradise (SX 12)",
+        "steps": 875,
+        "rolls": 0,
+        "holds": 83
+    },
+    {
+        "chartName": "Emera",
+        "folderName": "Emera (SX 12)",
+        "steps": 599,
+        "rolls": 0,
+        "holds": 25
+    },
+    {
+        "chartName": "Entrapment",
+        "folderName": "Entrapment (SX 12)",
+        "steps": 705,
+        "rolls": 15,
+        "holds": 24
+    },
+    {
+        "chartName": "Esoterica",
+        "folderName": "Esoterica (SX 12)",
+        "steps": 743,
+        "rolls": 2,
+        "holds": 106
+    },
+    {
+        "chartName": "Gekka",
+        "folderName": "Gekka (SX 12)",
+        "steps": 911,
+        "rolls": 18,
+        "holds": 61
+    },
+    {
+        "chartName": "Gloss (Niteloop Flip)",
+        "folderName": "Gloss (Niteloop Flip) (SX 12)",
+        "steps": 701,
+        "rolls": 5,
+        "holds": 51
+    },
+    {
+        "chartName": "Go 60 Go",
+        "folderName": "Go 60 Go (SX 12)",
+        "steps": 655,
+        "rolls": 0,
+        "holds": 10
+    },
+    {
+        "chartName": "Gravity Blast",
+        "folderName": "Gravity Blast (SX 12)",
+        "steps": 880,
+        "rolls": 9,
+        "holds": 36
+    },
+    {
+        "chartName": "Headspace",
+        "folderName": "Headspace (SX 12)",
+        "steps": 718,
+        "rolls": 4,
+        "holds": 83
+    },
+    {
+        "chartName": "Holic",
+        "folderName": "Holic (SX 12)",
+        "steps": 564,
+        "rolls": 1,
+        "holds": 23
+    },
+    {
+        "chartName": "Hop Step Adventure",
+        "folderName": "Hop Step Adventure (SX 12)",
+        "steps": 827,
+        "rolls": 7,
+        "holds": 74
+    },
+    {
+        "chartName": "Hypnotized",
+        "folderName": "Hypnotized (SX 12)",
+        "steps": 780,
+        "rolls": 18,
+        "holds": 34
+    },
+    {
+        "chartName": "kannabis kultivation",
+        "folderName": "kannabis kultivation (SX 12)",
+        "steps": 568,
+        "rolls": 17,
+        "holds": 65
+    },
+    {
+        "chartName": "Lament Configuration",
+        "folderName": "Lament Configuration (SX 12)",
+        "steps": 654,
+        "rolls": 21,
+        "holds": 15
+    },
+    {
+        "chartName": "Matador",
+        "folderName": "Matador (SX 12)",
+        "steps": 743,
+        "rolls": 0,
+        "holds": 12
+    },
+    {
+        "chartName": "Megaburn",
+        "folderName": "Megaburn (SX 12)",
+        "steps": 781,
+        "rolls": 8,
+        "holds": 59
+    },
+    {
+        "chartName": "Meikaruza",
+        "folderName": "Meikaruza (SX 12)",
+        "steps": 921,
+        "rolls": 0,
+        "holds": 134
+    },
+    {
+        "chartName": "Metallic Madness",
+        "folderName": "Metallic Madness (SX 12)",
+        "steps": 730,
+        "rolls": 12,
+        "holds": 141
+    },
+    {
+        "chartName": "Metamorphosis",
+        "folderName": "Metamorphosis (SX 12)",
+        "steps": 828,
+        "rolls": 1,
+        "holds": 62
+    },
+    {
+        "chartName": "Mind Eruption",
+        "folderName": "Mind Eruption (SX 12)",
+        "steps": 729,
+        "rolls": 0,
+        "holds": 52
+    },
+    {
+        "chartName": "Monkey Business",
+        "folderName": "Monkey Business (SX 12)",
+        "steps": 735,
+        "rolls": 9,
+        "holds": 39
+    },
+    {
+        "chartName": "Moon Race",
+        "folderName": "Moon Race (SX 12)",
+        "steps": 686,
+        "rolls": 0,
+        "holds": 37
+    },
+    {
+        "chartName": "Muteki",
+        "folderName": "MUTEKI (SX 12)",
+        "steps": 870,
+        "rolls": 3,
+        "holds": 30
+    },
+    {
+        "chartName": "Mysterious Time",
+        "folderName": "Mysterious Time (SX 12)",
+        "steps": 890,
+        "rolls": 1,
+        "holds": 56
+    },
+    {
+        "chartName": "New Game",
+        "folderName": "New Game (SX 12)",
+        "steps": 937,
+        "rolls": 4,
+        "holds": 122
+    },
+    {
+        "chartName": "Norinori Coupon",
+        "folderName": "Norinori Coupon (SX 12)",
+        "steps": 719,
+        "rolls": 2,
+        "holds": 33
+    },
+    {
+        "chartName": "On The Rocks",
+        "folderName": "On The Rocks (SX 12)",
+        "steps": 657,
+        "rolls": 1,
+        "holds": 33
+    },
+    {
+        "chartName": "Orange Sky",
+        "folderName": "Orange Sky (SX 12)",
+        "steps": 714,
+        "rolls": 0,
+        "holds": 3
+    },
+    {
+        "chartName": "Our Styles",
+        "folderName": "Our Styles (SX 12)",
+        "steps": 930,
+        "rolls": 0,
+        "holds": 72
+    },
+    {
+        "chartName": "PAPAYAPA BASS",
+        "folderName": "PAPAYAPA BASS (SX 12)",
+        "steps": 741,
+        "rolls": 8,
+        "holds": 70
+    },
+    {
+        "chartName": "Piano Samurai",
+        "folderName": "Piano Samurai (SX 12)",
+        "steps": 746,
+        "rolls": 6,
+        "holds": 58
+    },
+    {
+        "chartName": "POSSESSION",
+        "folderName": "POSSESSION (SX 12)",
+        "steps": 675,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Psydrums",
+        "folderName": "Psydrums (SX 12)",
+        "steps": 836,
+        "rolls": 1,
+        "holds": 41
+    },
+    {
+        "chartName": "Quaoar",
+        "folderName": "Quaoar (SX 12)",
+        "steps": 790,
+        "rolls": 4,
+        "holds": 88
+    },
+    {
+        "chartName": "Queen Bee",
+        "folderName": "Queen Bee (SX 12)",
+        "steps": 826,
+        "rolls": 12,
+        "holds": 40
+    },
+    {
+        "chartName": "Quick Attack",
+        "folderName": "Quick Attack (SX 12)",
+        "steps": 836,
+        "rolls": 30,
+        "holds": 110
+    },
+    {
+        "chartName": "Ragnarok",
+        "folderName": "Ragnarok (SX 12)",
+        "steps": 551,
+        "rolls": 20,
+        "holds": 135
+    },
+    {
+        "chartName": "Release the Music",
+        "folderName": "Release the Music (SX 12)",
+        "steps": 742,
+        "rolls": 2,
+        "holds": 27
+    },
+    {
+        "chartName": "Scabbler",
+        "folderName": "Scabbler (SX 12)",
+        "steps": 899,
+        "rolls": 28,
+        "holds": 57
+    },
+    {
+        "chartName": "Space Invaders",
+        "folderName": "Space Invaders (SX 12)",
+        "steps": 810,
+        "rolls": 6,
+        "holds": 96
+    },
+    {
+        "chartName": "Spark Shock",
+        "folderName": "Spark Shock (SX 12)",
+        "steps": 793,
+        "rolls": 9,
+        "holds": 99
+    },
+    {
+        "chartName": "Starlight Dancehall",
+        "folderName": "Starlight Dancehall (SX 12)",
+        "steps": 656,
+        "rolls": 5,
+        "holds": 42
+    },
+    {
+        "chartName": "Steelfuck",
+        "folderName": "STEELFUCK (Dubstep VIP) (SX 12)",
+        "steps": 638,
+        "rolls": 8,
+        "holds": 89
+    },
+    {
+        "chartName": "Stomp to my beat",
+        "folderName": "Stomp To My Beat (SX 12)",
+        "steps": 854,
+        "rolls": 0,
+        "holds": 29
+    },
+    {
+        "chartName": "Storm Buster",
+        "folderName": "Storm Buster (SX 12)",
+        "steps": 737,
+        "rolls": 9,
+        "holds": 38
+    },
+    {
+        "chartName": "Subside",
+        "folderName": "Subside (SX 12)",
+        "steps": 666,
+        "rolls": 31,
+        "holds": 53
+    },
+    {
+        "chartName": "Tachyon D",
+        "folderName": "Tachyon D (SX 12)",
+        "steps": 711,
+        "rolls": 0,
+        "holds": 65
+    },
+    {
+        "chartName": "Technical Master",
+        "folderName": "Technical Master (SX 12)",
+        "steps": 745,
+        "rolls": 11,
+        "holds": 35
+    },
+    {
+        "chartName": "Terra Firma (OLD)",
+        "folderName": "Terra Firma (SX 12)",
+        "steps": 821,
+        "rolls": 0,
+        "holds": 11
+    },
+    {
+        "chartName": "Terra Firma (UPDATED)",
+        "folderName": "Terra Firma (SX 12)",
+        "steps": 815,
+        "rolls": 6,
+        "holds": 11
+    },
+    {
+        "chartName": "The Clockwork Rose",
+        "folderName": "The Clockwork Rose (SX 12)",
+        "steps": 931,
+        "rolls": 4,
+        "holds": 62
+    },
+    {
+        "chartName": "The Terrorist",
+        "folderName": "The Terrorist (SX 12)",
+        "steps": 809,
+        "rolls": 8,
+        "holds": 78
+    },
+    {
+        "chartName": "The White Stag",
+        "folderName": "The White Stag (SX 12)",
+        "steps": 1006,
+        "rolls": 29,
+        "holds": 38
+    },
+    {
+        "chartName": "Towards the Horizon",
+        "folderName": "Towards the Horizon (SX 12)",
+        "steps": 716,
+        "rolls": 4,
+        "holds": 53
+    },
+    {
+        "chartName": "tractrix",
+        "folderName": "tractrix (SX 12)",
+        "steps": 766,
+        "rolls": 12,
+        "holds": 77
+    },
+    {
+        "chartName": "Tribal Trial",
+        "folderName": "Tribal Trial (SX 12)",
+        "steps": 720,
+        "rolls": 2,
+        "holds": 17
+    },
+    {
+        "chartName": "Vampire Killer (scar-ed PF rmx)",
+        "folderName": "Vampire Killer (scar-ed Pf rmx) (SX 12)",
+        "steps": 617,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "Wawa",
+        "folderName": "WAWA (SX 12)",
+        "steps": 682,
+        "rolls": 8,
+        "holds": 32
+    },
+    {
+        "chartName": "WOBBLE IMPACT",
+        "folderName": "WOBBLE IMPACT (SX 12)",
+        "steps": 663,
+        "rolls": 14,
+        "holds": 82
+    },
+    {
+        "chartName": "You're Beautiful",
+        "folderName": "You're Beautiful (SX 12)",
+        "steps": 898,
+        "rolls": 19,
+        "holds": 72
+    },
+    {
+        "chartName": "Youthful",
+        "folderName": "Youthful (SX 12)",
+        "steps": 882,
+        "rolls": 8,
+        "holds": 105
+    },
+    {
+        "chartName": "Ancient Scapes",
+        "folderName": "Ancient Scapes (SX 13)",
+        "steps": 835,
+        "rolls": 0,
+        "holds": 71
+    },
+    {
+        "chartName": "Arcology on Permafrost",
+        "folderName": "Arcology on Permafrost (SX 13)",
+        "steps": 922,
+        "rolls": 2,
+        "holds": 99
+    },
+    {
+        "chartName": "ASAKAGE",
+        "folderName": "ASAKAGE (SX 13)",
+        "steps": 1087,
+        "rolls": 3,
+        "holds": 64
+    },
+    {
+        "chartName": "BEAST BASS BOMB",
+        "folderName": "BEAST BASS BOMB (SX 13)",
+        "steps": 896,
+        "rolls": 0,
+        "holds": 12
+    },
+    {
+        "chartName": "Blue",
+        "folderName": "Blue (SX 13)",
+        "steps": 1054,
+        "rolls": 62,
+        "holds": 49
+    },
+    {
+        "chartName": "Can o' Salt",
+        "folderName": "Can o' Salt (SX 13)",
+        "steps": 1104,
+        "rolls": 0,
+        "holds": 42
+    },
+    {
+        "chartName": "Candy Curtain Call",
+        "folderName": "Candy Crack Curtain Call (SX 13)",
+        "steps": 1040,
+        "rolls": 8,
+        "holds": 56
+    },
+    {
+        "chartName": "Carry Me Away",
+        "folderName": "Carry Me Away (SX 13)",
+        "steps": 905,
+        "rolls": 0,
+        "holds": 71
+    },
+    {
+        "chartName": "Computer Blues",
+        "folderName": "Computer Blues (SX 13)",
+        "steps": 869,
+        "rolls": 22,
+        "holds": 35
+    },
+    {
+        "chartName": "DADADADADADA",
+        "folderName": "DADADADA (SX 13)",
+        "steps": 897,
+        "rolls": 26,
+        "holds": 8
+    },
+    {
+        "chartName": "day by day",
+        "folderName": "Day By Day (SX 13)",
+        "steps": 1022,
+        "rolls": 1,
+        "holds": 31
+    },
+    {
+        "chartName": "DEADHEAT",
+        "folderName": "DEADHEAT (SX 13)",
+        "steps": 847,
+        "rolls": 39,
+        "holds": 29
+    },
+    {
+        "chartName": "Desperation",
+        "folderName": "Desperation (SX 13)",
+        "steps": 1513,
+        "rolls": 0,
+        "holds": 61
+    },
+    {
+        "chartName": "Dysangel",
+        "folderName": "Dysangel (SX 13)",
+        "steps": 792,
+        "rolls": 1,
+        "holds": 15
+    },
+    {
+        "chartName": "Egret and Willow",
+        "folderName": "Egret and Willow (SX 13)",
+        "steps": 772,
+        "rolls": 12,
+        "holds": 110
+    },
+    {
+        "chartName": "EVANESCENT",
+        "folderName": "EVANESCENT (SX 13)",
+        "steps": 986,
+        "rolls": 1,
+        "holds": 21
+    },
+    {
+        "chartName": "Feelin' Sky (Camellia's 200-Step Remix)",
+        "folderName": "Feelin Sky (200-Step Remix) (SX 13)",
+        "steps": 894,
+        "rolls": 4,
+        "holds": 90
+    },
+    {
+        "chartName": "Fractal",
+        "folderName": "Fractal (SX 13)",
+        "steps": 665,
+        "rolls": 4,
+        "holds": 45
+    },
+    {
+        "chartName": "Hard Brain",
+        "folderName": "HARD BRAIN (SX 13)",
+        "steps": 894,
+        "rolls": 0,
+        "holds": 56
+    },
+    {
+        "chartName": "Horatio",
+        "folderName": "Horatio (SX 13)",
+        "steps": 713,
+        "rolls": 0,
+        "holds": 71
+    },
+    {
+        "chartName": "Insecticide",
+        "folderName": "Insecticide (SX 13)",
+        "steps": 914,
+        "rolls": 6,
+        "holds": 19
+    },
+    {
+        "chartName": "Janus",
+        "folderName": "Janus (SX 13)",
+        "steps": 935,
+        "rolls": 0,
+        "holds": 28
+    },
+    {
+        "chartName": "Kek",
+        "folderName": "Kek (SX 13)",
+        "steps": 732,
+        "rolls": 44,
+        "holds": 158
+    },
+    {
+        "chartName": "Le Banquet",
+        "folderName": "Le Banquet (SX 13)",
+        "steps": 963,
+        "rolls": 9,
+        "holds": 67
+    },
+    {
+        "chartName": "Level Skip (SH)",
+        "folderName": "Level Skip (SH 13)",
+        "steps": 908,
+        "rolls": 0,
+        "holds": 209
+    },
+    {
+        "chartName": "Life is Beautiful",
+        "folderName": "Life is Beautiful (SX 13)",
+        "steps": 925,
+        "rolls": 0,
+        "holds": 42
+    },
+    {
+        "chartName": "Miracle 5ympho X",
+        "folderName": "Miracle 5ympho X (SX 13)",
+        "steps": 704,
+        "rolls": 6,
+        "holds": 80
+    },
+    {
+        "chartName": "Moskau (Camellia's Handzup Bootleg)",
+        "folderName": "Moskau (Camellia's Handzup Bootleg) (SX 13)",
+        "steps": 1373,
+        "rolls": 0,
+        "holds": 38
+    },
+    {
+        "chartName": "NB Ranger",
+        "folderName": "NB Ranger (Nonstop Remix) (SX 13)",
+        "steps": 1012,
+        "rolls": 21,
+        "holds": 37
+    },
+    {
+        "chartName": "Out of Love",
+        "folderName": "Out of Love (SX 13)",
+        "steps": 860,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Pollinosis",
+        "folderName": "Pollinosis (SX 13)",
+        "steps": 857,
+        "rolls": 0,
+        "holds": 50
+    },
+    {
+        "chartName": "Pon-Pon-Pompoko Dai-Sen-Saw!!",
+        "folderName": "Pon Pon Pompoko Dai Sen Saw (SX 13)",
+        "steps": 794,
+        "rolls": 1,
+        "holds": 100
+    },
+    {
+        "chartName": "Rainbow Road",
+        "folderName": "Rainbow Road (SX 13)",
+        "steps": 935,
+        "rolls": 0,
+        "holds": 24
+    },
+    {
+        "chartName": "Smoked Turkey Rag",
+        "folderName": "Smoked Turkey Rag (SX 13)",
+        "steps": 848,
+        "rolls": 0,
+        "holds": 48
+    },
+    {
+        "chartName": "Snailchan Adventure",
+        "folderName": "Snailchan Adventure (SX 13)",
+        "steps": 892,
+        "rolls": 24,
+        "holds": 31
+    },
+    {
+        "chartName": "Southern Cross",
+        "folderName": "Southern Cross (SX 13)",
+        "steps": 770,
+        "rolls": 0,
+        "holds": 7
+    },
+    {
+        "chartName": "SPLINTER GOD",
+        "folderName": "SPLINTER GOD (SX 13)",
+        "steps": 775,
+        "rolls": 2,
+        "holds": 104
+    },
+    {
+        "chartName": "stoic",
+        "folderName": "stoic (EXTREME Version) (SX 13)",
+        "steps": 772,
+        "rolls": 0,
+        "holds": 44
+    },
+    {
+        "chartName": "Strongholds",
+        "folderName": "Strongholds (SX 13)",
+        "steps": 769,
+        "rolls": 6,
+        "holds": 30
+    },
+    {
+        "chartName": "Suiren no Shirabe (SM)",
+        "folderName": "Suiren no Shirabe (SM 13)",
+        "steps": 978,
+        "rolls": 0,
+        "holds": 63
+    },
+    {
+        "chartName": "Toki gya9 remix",
+        "folderName": "Toki (gya9 Remix) (SX 13)",
+        "steps": 1358,
+        "rolls": 6,
+        "holds": 20
+    },
+    {
+        "chartName": "Travel to Future",
+        "folderName": "Travel to Future (SX 13)",
+        "steps": 785,
+        "rolls": 0,
+        "holds": 21
+    },
+    {
+        "chartName": "Uprooted, marooned",
+        "folderName": "Uprooted, marooned (SX 13)",
+        "steps": 933,
+        "rolls": 55,
+        "holds": 22
+    },
+    {
+        "chartName": "Upshift",
+        "folderName": "Upshift (SX 13)",
+        "steps": 1002,
+        "rolls": 0,
+        "holds": 57
+    },
+    {
+        "chartName": "Blazing Lazer",
+        "folderName": "Blazing_Lazer (SX 14)",
+        "steps": 894,
+        "rolls": 0,
+        "holds": 32
+    },
+    {
+        "chartName": "Funk Assembly",
+        "folderName": "Funk Assembly (SX 14)",
+        "steps": 1792,
+        "rolls": 7,
+        "holds": 141
+    },
+    {
+        "chartName": "Glitched Character",
+        "folderName": "Glitched Character (SX 14)",
+        "steps": 973,
+        "rolls": 16,
+        "holds": 27
+    },
+    {
+        "chartName": "Neutrino",
+        "folderName": "Neutrino (SX 14)",
+        "steps": 705,
+        "rolls": 7,
+        "holds": 46
+    },
+    {
+        "chartName": "REVOLVER",
+        "folderName": "Revolver (SX 14)",
+        "steps": 678,
+        "rolls": 4,
+        "holds": 53
+    },
+    {
+        "chartName": "Deadball de Homerun (SH)",
+        "folderName": "Deadball de Homerun (SH 7)",
+        "steps": 402,
+        "rolls": 20,
+        "holds": 23
+    },
+    {
+        "chartName": "Flamenco House (SM)",
+        "folderName": "Flamenco House (SM 7)",
+        "steps": 385,
+        "rolls": 1,
+        "holds": 63
+    },
+    {
+        "chartName": "How Could You Say (SH)",
+        "folderName": "How Could You Say (SH 7)",
+        "steps": 385,
+        "rolls": 0,
+        "holds": 30
+    },
+    {
+        "chartName": "Into Ur Heart (SM)",
+        "folderName": "Into UR Heart (SM 7)",
+        "steps": 432,
+        "rolls": 0,
+        "holds": 81
+    },
+    {
+        "chartName": "Matador (SM)",
+        "folderName": "Matador (SM 7)",
+        "steps": 376,
+        "rolls": 0,
+        "holds": 12
+    },
+    {
+        "chartName": "Never Ever (SH)",
+        "folderName": "Never Ever (SH 7)",
+        "steps": 377,
+        "rolls": 0,
+        "holds": 15
+    },
+    {
+        "chartName": "The Koto Chill (SH)",
+        "folderName": "The Koto Chill (SH 7)",
+        "steps": 417,
+        "rolls": 8,
+        "holds": 46
+    },
+    {
+        "chartName": "Brain Para-dicing!",
+        "folderName": "Brain Para-dicing! (SH 8)",
+        "steps": 531,
+        "rolls": 0,
+        "holds": 73
+    },
+    {
+        "chartName": "Checkpoint (SH)",
+        "folderName": "Checkpoint (SH 8)",
+        "steps": 505,
+        "rolls": 5,
+        "holds": 49
+    },
+    {
+        "chartName": "Dynamite",
+        "folderName": "Dynamite (SH 8)",
+        "steps": 429,
+        "rolls": 0,
+        "holds": 21
+    },
+    {
+        "chartName": "Hysteria (SM)",
+        "folderName": "Hysteria (SM 8)",
+        "steps": 425,
+        "rolls": 5,
+        "holds": 11
+    },
+    {
+        "chartName": "Cry For You (Darren Styles remix)",
+        "folderName": "Cry For You (Darren Styles Remix) (SX 9)",
+        "steps": 645,
+        "rolls": 3,
+        "holds": 26
+    },
+    {
+        "chartName": "Doki Doki (Panik Mix)",
+        "folderName": "Doki Doki (Panik Mix) (SX 9)",
+        "steps": 495,
+        "rolls": 3,
+        "holds": 10
+    },
+    {
+        "chartName": "Echo (The Living Tombstone remix)",
+        "folderName": "ECHO (The Living Tombstone Remix) (SX 9)",
+        "steps": 471,
+        "rolls": 0,
+        "holds": 88
+    },
+    {
+        "chartName": "kannabis kultivation (SM)",
+        "folderName": "kannabis kultivation (SM 9)",
+        "steps": 360,
+        "rolls": 14,
+        "holds": 40
+    },
+    {
+        "chartName": "Say So",
+        "folderName": "Say So (SX 9)",
+        "steps": 446,
+        "rolls": 3,
+        "holds": 68
+    },
+    {
+        "chartName": "Super Wubtendo (SH)",
+        "folderName": "Super Wubtendo (SH 9)",
+        "steps": 468,
+        "rolls": 9,
+        "holds": 40
+    },
+    {
+        "chartName": "Bangarang",
+        "folderName": "Bangarang (SX 10)",
+        "steps": 545,
+        "rolls": 84,
+        "holds": 84
+    },
+    {
+        "chartName": "Kooky Spooky",
+        "folderName": "Kooky Spooky (SX 10)",
+        "steps": 447,
+        "rolls": 0,
+        "holds": 77
+    },
+    {
+        "chartName": "No Sense Running",
+        "folderName": "No Sense Running (SX 10)",
+        "steps": 462,
+        "rolls": 14,
+        "holds": 22
+    },
+    {
+        "chartName": "Nuck Chorris",
+        "folderName": "Nuck Chorris (SX 10)",
+        "steps": 581,
+        "rolls": 0,
+        "holds": 44
+    },
+    {
+        "chartName": "Silly Video Game Bleep Bloops",
+        "folderName": "Silly Video Game Bleep Bloops (SX 10)",
+        "steps": 589,
+        "rolls": 18,
+        "holds": 64
+    },
+    {
+        "chartName": "Chpinklez",
+        "folderName": "Chpinklez (SX 11)",
+        "steps": 605,
+        "rolls": 1,
+        "holds": 63
+    },
+    {
+        "chartName": "Diet Funk",
+        "folderName": "Diet Funk (SX 11)",
+        "steps": 639,
+        "rolls": 1,
+        "holds": 24
+    },
+    {
+        "chartName": "Eternity",
+        "folderName": "Eternity (SX 11)",
+        "steps": 746,
+        "rolls": 1,
+        "holds": 107
+    },
+    {
+        "chartName": "Flamenco House",
+        "folderName": "Flamenco House (SX 11)",
+        "steps": 716,
+        "rolls": 2,
+        "holds": 15
+    },
+    {
+        "chartName": "Marionette",
+        "folderName": "Marionette (SX 11)",
+        "steps": 726,
+        "rolls": 15,
+        "holds": 82
+    },
+    {
+        "chartName": "Purple People Eater",
+        "folderName": "Purple People Eater (SX 11)",
+        "steps": 417,
+        "rolls": 0,
+        "holds": 97
+    },
+    {
+        "chartName": "Stay With Me",
+        "folderName": "Stay With Me (SX 11)",
+        "steps": 638,
+        "rolls": 1,
+        "holds": 40
+    },
+    {
+        "chartName": "ALONE [In The Dark]",
+        "folderName": "ALONE (SX 12)",
+        "steps": 755,
+        "rolls": 0,
+        "holds": 9
+    },
+    {
+        "chartName": "Can't You Bounce?",
+        "folderName": "Can't You Bounce (SX 12)",
+        "steps": 711,
+        "rolls": 0,
+        "holds": 45
+    },
+    {
+        "chartName": "Ga1ahad and Scientific Witchery",
+        "folderName": "Ga1ahad and Scientific Witchery (SX 12)",
+        "steps": 778,
+        "rolls": 0,
+        "holds": 43
+    },
+    {
+        "chartName": "Glitch Nerds",
+        "folderName": "Glitch Nerds (SX 12)",
+        "steps": 803,
+        "rolls": 21,
+        "holds": 87
+    },
+    {
+        "chartName": "illuminate",
+        "folderName": "illuminate (SX 12)",
+        "steps": 753,
+        "rolls": 1,
+        "holds": 62
+    },
+    {
+        "chartName": "Monotone",
+        "folderName": "Monotone (SX 12)",
+        "steps": 1057,
+        "rolls": 0,
+        "holds": 6
+    },
+    {
+        "chartName": "PONPONPON (DJ Twintale's Hardcore Bootleg Mix)",
+        "folderName": "PONPONPON (DJ Twintale's Hardcore Bootleg Mix) (SX 12)",
+        "steps": 941,
+        "rolls": 15,
+        "holds": 34
+    },
+    {
+        "chartName": "Welcome to the Cyphisonia",
+        "folderName": "Welcome To The Cyphisonia (SX 12)",
+        "steps": 607,
+        "rolls": 4,
+        "holds": 116
+    },
+    {
+        "chartName": "Daddy Mulk",
+        "folderName": "Daddy Mulk (SX 13)",
+        "steps": 920,
+        "rolls": 0,
+        "holds": 51
+    },
+    {
+        "chartName": "Lick It (TYNAN Remix)",
+        "folderName": "Lick It (TYNAN Remix) (SX 13)",
+        "steps": 705,
+        "rolls": 1,
+        "holds": 52
+    },
+    {
+        "chartName": "One Bite",
+        "folderName": "One Bite (SX 13)",
+        "steps": 832,
+        "rolls": 15,
+        "holds": 29
+    },
+    {
+        "chartName": "Summer Speedy Mix",
+        "folderName": "Summer ~Speedy Mix~ (SX 13)",
+        "steps": 767,
+        "rolls": 0,
+        "holds": 48
+    },
+    {
+        "chartName": "Vanishing Point",
+        "folderName": "Vanishing Point (SX 13)",
+        "steps": 1221,
+        "rolls": 0,
+        "holds": 53
+    },
+    {
+        "chartName": "You've Got The Cash Reserves Of A Tortilla",
+        "folderName": "You've Got the Cash Reserves of a Tortilla (SX 13)",
+        "steps": 915,
+        "rolls": 1,
+        "holds": 31
+    },
+    {
+        "chartName": "Alone Intelligence",
+        "folderName": "Alone Intelligence (SX 14)",
+        "steps": 1235,
+        "rolls": 7,
+        "holds": 206
+    },
+    {
+        "chartName": "Cannonball",
+        "folderName": "Cannonball (SX 14)",
+        "steps": 2090,
+        "rolls": 0,
+        "holds": 11
+    },
+    {
+        "chartName": "Club Night",
+        "folderName": "Club Night (SX 14)",
+        "steps": 1680,
+        "rolls": 5,
+        "holds": 35
+    },
+    {
+        "chartName": "Goodtek",
+        "folderName": "GOODTEK (SX 14)",
+        "steps": 1110,
+        "rolls": 0,
+        "holds": 27
+    },
+    {
+        "chartName": "Interstellar Travel",
+        "folderName": "interstellar travel (SX 14)",
+        "steps": 1114,
+        "rolls": 1,
+        "holds": 32
+    },
+    {
+        "chartName": "Unfolding",
+        "folderName": "Unfolding (SX 14)",
+        "steps": 1303,
+        "rolls": 0,
+        "holds": 124
+    }
+]

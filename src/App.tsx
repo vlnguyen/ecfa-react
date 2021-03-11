@@ -1,5 +1,6 @@
 import React from 'react';
 import Dropzone from 'react-dropzone';
+import { default as songlist } from './res/songlist.json';
 import logo from './img/ecfa2021-logo.png';
 import './App.css';
 
@@ -14,6 +15,7 @@ function handleFileSelected<T extends File>(acceptedFiles: T[]) {
 
 
 function App() {
+  console.log(songlist);
   return (
     <div className="App">
       <header className="App-header">
