@@ -1,7 +1,6 @@
 import * as ExcelJS from 'exceljs';
 import fs from 'file-saver';
 import { default as songlist } from '../../../res/songlist.json';
-import { Chart } from '../../../types/Chart.types';
 import { WaterfallExcelScore, WaterfallScore } from "../../../types/Waterfall.types";
 
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
@@ -37,16 +36,27 @@ function processJudgementsRow(row: string): WaterfallScore {
 
 export async function exportScoresToExcel(scoresLookup: Map<string, WaterfallScore>) {
     const excelScores = generateWaterfallExcelScores(scoresLookup);
-    // const workbook = new ExcelJS.Workbook();
-    // const sheet = workbook.addWorksheet('Scores');
-    // const data = await workbook.xlsx.writeBuffer();
-    // let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
-    // fs.saveAs(blob, 'Scores.xlsx');
+    const workbook = new ExcelJS.Workbook();
+    const sheet = workbook.addWorksheet('Scores');
+    sheet.addRows(excelScores.map(score => score === null ? [] : score.toExcelRow()))
+    const data = await workbook.xlsx.writeBuffer();
+    let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+    fs.saveAs(blob, 'Scores.xlsx');
 }
 
-function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>): WaterfallExcelScore[] {
-    // var songs = songlist.map(
-    //     song => new Chart(song.chartName, song.folderName, song.steps, song.rolls, song.holds)
-    // );
-    return [];
+function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>): (WaterfallExcelScore | null)[] {
+    return songlist.map(song => {
+        if (!scoresLookup.has(song.folderName)) {
+            console.error(`Player hasn't completed this song: [${song.folderName}]`);
+            return null;
+        }
+        const score = scoresLookup.get(song.folderName)!;
+        return new WaterfallExcelScore(
+            song.chartName,
+            song.folderName,
+            score.masterfuls,
+            score.awesomes,
+            score.minesHit + (song.holds + song.rolls - score.droppedHolds)
+        );
+    });
 }
