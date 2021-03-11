@@ -1,8 +1,8 @@
-import { WaterfallExcelScore } from "../../../types/Waterfall.types";
+import { WaterfallScore } from "../../../types/Waterfall.types";
 
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
 
-export function generateWaterfallScoresLookup(rawScores: string):Map<string, WaterfallExcelScore> {
+export function generateWaterfallScoresLookup(rawScores: string):Map<string, WaterfallScore> {
     const lines = rawScores.split('\n');
     for (let index = 0; index + 1 < lines.length; index += 2) {
         const match = lines[index].match(folderNameRegex);
@@ -13,5 +13,5 @@ export function generateWaterfallScoresLookup(rawScores: string):Map<string, Wat
         const folderName = match[1];
         console.log(folderName);
     }
-    return new Map<string, WaterfallExcelScore>();
+    return new Map<string, WaterfallScore>();
 }
