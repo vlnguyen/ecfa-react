@@ -1,8 +1,11 @@
-import { WaterfallScore } from "../../../types/Waterfall.types";
+import * as ExcelJS from 'exceljs';
+import fs from 'file-saver';
+import { default as songlist } from '../../../res/songlist.json';
+import { WaterfallExcelScore, WaterfallScore } from "../../../types/Waterfall.types";
 
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
 
-export function generateWaterfallScoresLookup(rawScores: string):Map<string, WaterfallScore> {
+export function generateWaterfallScoresLookup(rawScores: string): Map<string, WaterfallScore> {
     const scoresLookup = new Map<string, WaterfallScore>();
     const lines = rawScores.split('\n');
     for (let index = 0; index + 1 < lines.length; index += 2) {
@@ -29,4 +32,15 @@ function processJudgementsRow(row: string): WaterfallScore {
         judgements[6],
         judgements[7]
     );
+}
+
+export async function exportScoresToExcel(_scoresLookup: Map<string, WaterfallScore>) {
+    const workbook = new ExcelJS.Workbook();
+    const sheet = workbook.addWorksheet('Scores');
+    sheet.addRows(songlist.map(
+        song => new WaterfallExcelScore(song.chartName, song.folderName, 0, 0, 0).toExcelRow())
+    );
+    const data = await workbook.xlsx.writeBuffer();
+    let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
+    fs.saveAs(blob, 'Scores.xlsx');
 }

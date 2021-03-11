@@ -1,32 +1,17 @@
 import React from 'react';
 import Dropzone from 'react-dropzone';
-import * as ExcelJS from 'exceljs';
-import fs from 'file-saver';
-import { WaterfallExcelScore } from './types/Waterfall.types';
-import { default as songlist } from './res/songlist.json';
 import logo from './img/ecfa2021-logo.png';
 import './App.css';
-import { generateWaterfallScoresLookup } from './util/ecfa-parser/waterfall/Waterfall.utilities';
+import { exportScoresToExcel, generateWaterfallScoresLookup } from './util/ecfa-parser/waterfall/Waterfall.utilities';
 
 function handleFileSelected<T extends File>(acceptedFiles: T[]) {
   const fileReader = new FileReader();
   fileReader.onloadend = async () => {
-    console.log(generateWaterfallScoresLookup(fileReader.result as string));
+    const scoresLookup = generateWaterfallScoresLookup(fileReader.result as string);
+    exportScoresToExcel(scoresLookup);
   };
-  fileReader.readAsText(acceptedFiles[0]);
-  exportScoresToExcel();
-}
 
-async function exportScoresToExcel() {
-  const workbook = new ExcelJS.Workbook();
-  const sheet = workbook.addWorksheet('Scores');
-  sheet.addRows(songlist.map(
-      song => new WaterfallExcelScore(song.chartName, song.folderName, 0, 0, 0).toExcelRow())
-  );
-  workbook.xlsx.writeBuffer().then((data) => {
-    let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
-    fs.saveAs(blob, 'Scores.xlsx');
-  });
+  fileReader.readAsText(acceptedFiles[0]);
 }
 
 function App() {
