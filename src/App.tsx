@@ -2,7 +2,7 @@ import React from 'react';
 import Dropzone from 'react-dropzone';
 import logo from './img/ecfa2021-logo.png';
 import './App.css';
-import { exportScoresToExcel, generateWaterfallScoresLookup } from './util/ecfa-parser/waterfall/Waterfall.utilities';
+import { exportScoresToExcel, generateWaterfallScoresLookup } from './util/waterfall/Waterfall.utilities';
 
 function handleFileSelected<T extends File>(acceptedFiles: T[]) {
   const fileReader = new FileReader();
