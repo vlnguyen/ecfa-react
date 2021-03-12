@@ -17,6 +17,13 @@ const expectedStepCountLookup: Record<string, number> = {
     "Ave de Rapina (UPDATED)": 579,
 }
 
+const defaultBorder: ExcelJS.Border = { 
+    style:'thin',
+    color: {
+        argb: 'FFD3D3D3',
+    },
+};
+
 export function generateWaterfallScoresLookup(rawScores: string): Map<string, WaterfallScore> {
     const scoresLookup = new Map<string, WaterfallScore>();
     const lines = rawScores.split('\n');
@@ -51,12 +58,54 @@ export async function exportScoresToExcel(scoresLookup: Map<string, WaterfallSco
 
     const workbook = new ExcelJS.Workbook();
     const sheet = workbook.addWorksheet('Scores');
+
     sheet.getColumn(1).width = sheet.getColumn(2).width = 52;
-    sheet.addRows(excelScores.map(score => score.toExcelRow()));
+    
+    sheet.addRows(excelScores.map(
+        score => score.toExcelRow()
+    )).forEach(
+        row => row.eachCell(styleCell)
+    );
 
     const data = await workbook.xlsx.writeBuffer();
     let blob = new Blob([data], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
     fs.saveAs(blob, 'Scores.xlsx');
+}
+
+function styleCell(cell: ExcelJS.Cell, columnIndex: number) {
+    const color = getCellColor(columnIndex);
+    if (color !== null) {
+        cell.fill = { 
+            type: 'pattern', 
+            pattern: 'solid', 
+            fgColor: { argb: color },
+        }
+        cell.border = {
+            top: defaultBorder,
+            left: defaultBorder,
+            bottom: defaultBorder,
+            right: defaultBorder,
+        };
+    }
+}
+
+function getCellColor(columnIndex: number): string | null {
+    switch (columnIndex) {
+        case 3: // Mas
+            return 'FFFFD3FF';
+        case 4: // Awe
+            return 'FFFFFFBF';
+        case 5: // Red
+            return 'FFFFAFAF';
+        case 6: // Min
+            return 'FFB7FFB7';
+        case 7: // Rol
+            return 'FF97D2FF';
+        case 8: // Hol
+            return 'FFF7CAAC';
+        default:
+            return null;
+    }
 }
 
 function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>): WaterfallExcelScore[] {

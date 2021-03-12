@@ -57,9 +57,12 @@ export class WaterfallExcelScore {
         return [
             this.chartName,
             this.folderName,
-            this.judgements?.mas ?? null,
-            this.judgements?.awe ?? null,
-            this.judgements?.red ?? null,
+            this.judgements?.mas.toString() ?? '',
+            this.judgements?.awe.toString() ?? '',
+            this.judgements?.red.toString() ?? '',
+            '',
+            '',
+            '',
         ];
     };
 }
