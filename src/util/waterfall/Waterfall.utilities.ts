@@ -5,11 +5,17 @@ import { WaterfallExcelJudgements, WaterfallExcelScore, WaterfallScore } from ".
 
 const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
 
-const TERRA_FIRMA_OLD_STEPCOUNT = 821;
-const TERRA_FIRMA_NEW_STEPCOUNT = 815;
+const edgeCaseSongFolders = new Set<string>([
+    "Ave de Rapina (SX 11)",
+    "Terra Firma (SX 12)",
+]);
 
-const AVE_DE_RAPINA_OLD_STEPCOUNT = 578;
-const AVE_DE_RAPINA_NEW_STEPCOUNT = 579;
+const expectedStepCountLookup: Record<string, number> = {
+    "Terra Firma (OLD)": 821,
+    "Terra Firma (UPDATED)": 815,
+    "Ave de Rapina (OLD)": 578,
+    "Ave de Rapina (UPDATED)": 579,
+}
 
 export function generateWaterfallScoresLookup(rawScores: string): Map<string, WaterfallScore> {
     const scoresLookup = new Map<string, WaterfallScore>();
@@ -62,24 +68,8 @@ function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>)
             return emptyScore;
         }
 
-        // edge case: Terra Firma [mute] updated chart
-        if (song.folderName === "Terra Firma (SX 12)") {
-            const expectedStepCount = song.chartName === 'Terra Firma (OLD)'
-                ? TERRA_FIRMA_OLD_STEPCOUNT
-                : TERRA_FIRMA_NEW_STEPCOUNT
-            
-            if (expectedStepCount !== score.getTotalSteps()) {
-                console.error(`Processing ${song.chartName}, expected ${expectedStepCount} steps, got ${score.getTotalSteps()} steps`);
-                return emptyScore;
-            }
-        }
-
-        // edge case: Ave de Rapina [mute] updated chart
-        if (song.folderName === "Ave de Rapina (SX 11)") {
-            const expectedStepCount = song.chartName === 'Ave de Rapina (OLD)'
-                ? AVE_DE_RAPINA_OLD_STEPCOUNT
-                : AVE_DE_RAPINA_NEW_STEPCOUNT
-        
+        if (edgeCaseSongFolders.has(song.folderName)) {
+            const expectedStepCount = expectedStepCountLookup[song.chartName];
             if (expectedStepCount !== score.getTotalSteps()) {
                 console.error(`Processing ${song.chartName}, expected ${expectedStepCount} steps, got ${score.getTotalSteps()} steps`);
                 return emptyScore;
