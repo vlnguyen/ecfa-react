@@ -117,12 +117,13 @@ function generateWaterfallExcelScores(scoresLookup: Map<string, WaterfallScore>)
             return emptyScore;
         }
 
+        let expectedStepCount = song.steps;
         if (edgeCaseSongFolders.has(song.folderName)) {
-            const expectedStepCount = expectedStepCountLookup[song.chartName];
-            if (expectedStepCount !== score.getTotalSteps()) {
-                console.error(`Processing ${song.chartName}, expected ${expectedStepCount} steps, got ${score.getTotalSteps()} steps`);
-                return emptyScore;
-            }
+            expectedStepCount = expectedStepCountLookup[song.chartName];
+        }
+        if (expectedStepCount !== score.getTotalSteps()) {
+            console.error(`Processing ${song.chartName}, expected ${expectedStepCount} steps, got ${score.getTotalSteps()} steps`);
+            return emptyScore;
         }
 
         return new WaterfallExcelScore(
