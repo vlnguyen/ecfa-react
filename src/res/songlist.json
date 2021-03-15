@@ -3103,7 +3103,7 @@
     {
         "chartName": "Interstellar Travel",
         "folderName": "interstellar travel (SX 14)",
-        "steps": 1114,
+        "steps": 1144,
         "rolls": 1,
         "holds": 32
     },
@@ -3113,5 +3113,229 @@
         "steps": 1303,
         "rolls": 0,
         "holds": 124
+    },
+    {
+        "chartName": "Rapid Fire (SH)",
+        "folderName": "Rapid Fire (SH 7)",
+        "steps": 379,
+        "rolls": 0,
+        "holds": 30
+    },
+    {
+        "chartName": "Vector Space (SM)",
+        "folderName": "Vector Space (SM 7)",
+        "steps": 337,
+        "rolls": 0,
+        "holds": 40
+    },
+    {
+        "chartName": "A Moon of Caral (SH)",
+        "folderName": "A Moon of Caral (Verdammt Remix) (SH 8)",
+        "steps": 318,
+        "rolls": 6,
+        "holds": 85
+    },
+    {
+        "chartName": "Fresh it Up (SH)",
+        "folderName": "Fresh It Up!!! (SH 8)",
+        "steps": 416,
+        "rolls": 13,
+        "holds": 64
+    },
+    {
+        "chartName": "So Damn Tough (SM)",
+        "folderName": "So Damn Tough (SM 8)",
+        "steps": 516,
+        "rolls": 3,
+        "holds": 63
+    },
+    {
+        "chartName": "Studiopolis Zone (SH)",
+        "folderName": "Studiopolis Zone (Ben Briggs Remix) (SH 8)",
+        "steps": 415,
+        "rolls": 2,
+        "holds": 91
+    },
+    {
+        "chartName": "Harpoon (SH)",
+        "folderName": "Harpoon (SH 9)",
+        "steps": 575,
+        "rolls": 2,
+        "holds": 12
+    },
+    {
+        "chartName": "POPSTARS",
+        "folderName": "POPSTARS (SX 9)",
+        "steps": 598,
+        "rolls": 8,
+        "holds": 23
+    },
+    {
+        "chartName": "2k9 battle jam",
+        "folderName": "2k9 battle jam (SX 10)",
+        "steps": 619,
+        "rolls": 14,
+        "holds": 77
+    },
+    {
+        "chartName": "Cinema",
+        "folderName": "Cinema (Skrillex Remix) (SX 10)",
+        "steps": 489,
+        "rolls": 10,
+        "holds": 47
+    },
+    {
+        "chartName": "I'm So Sick",
+        "folderName": "I'm So Sick (SX 10)",
+        "steps": 605,
+        "rolls": 4,
+        "holds": 55
+    },
+    {
+        "chartName": "Butter Sugar Cream",
+        "folderName": "Butter Sugar Cream (SX 11)",
+        "steps": 592,
+        "rolls": 2,
+        "holds": 30
+    },
+    {
+        "chartName": "Frustrate",
+        "folderName": "frustrate (SX 11)",
+        "steps": 664,
+        "rolls": 32,
+        "holds": 16
+    },
+    {
+        "chartName": "Silikon",
+        "folderName": "silikon (SX 11)",
+        "steps": 801,
+        "rolls": 0,
+        "holds": 44
+    },
+    {
+        "chartName": "The 89s Momentum",
+        "folderName": "The 89's Momentum (SX 11)",
+        "steps": 784,
+        "rolls": 0,
+        "holds": 46
+    },
+    {
+        "chartName": "Vintage Computers",
+        "folderName": "Vintage Computers (SX 11)",
+        "steps": 697,
+        "rolls": 21,
+        "holds": 62
+    },
+    {
+        "chartName": "Bubble In The Air",
+        "folderName": "Bubble In The Air (SX 12)",
+        "steps": 767,
+        "rolls": 11,
+        "holds": 107
+    },
+    {
+        "chartName": "For You",
+        "folderName": "For You (SX 12)",
+        "steps": 817,
+        "rolls": 0,
+        "holds": 156
+    },
+    {
+        "chartName": "Huis Clos",
+        "folderName": "Huis Clos (SX 12)",
+        "steps": 709,
+        "rolls": 3,
+        "holds": 52
+    },
+    {
+        "chartName": "MAX 300",
+        "folderName": "MAX 300 (SX 12)",
+        "steps": 514,
+        "rolls": 0,
+        "holds": 33
+    },
+    {
+        "chartName": "Spanish",
+        "folderName": "Spanish (SX 12)",
+        "steps": 938,
+        "rolls": 0,
+        "holds": 73
+    },
+    {
+        "chartName": "Stressed Free Style",
+        "folderName": "Stressed Free Style (SX 12)",
+        "steps": 708,
+        "rolls": 2,
+        "holds": 57
+    },
+    {
+        "chartName": "Night Raid With A Dragon",
+        "folderName": "Night Raid With A Dragon (SX 13)",
+        "steps": 787,
+        "rolls": 4,
+        "holds": 45
+    },
+    {
+        "chartName": "Six Million",
+        "folderName": "Six Million (SX 13)",
+        "steps": 666,
+        "rolls": 17,
+        "holds": 89
+    },
+    {
+        "chartName": "TECHNO Style Essentials (SH)",
+        "folderName": "TECHNO Style Essentials (SH 13)",
+        "steps": 750,
+        "rolls": 13,
+        "holds": 22
+    },
+    {
+        "chartName": "Turndup",
+        "folderName": "Turndup (SX 13)",
+        "steps": 827,
+        "rolls": 13,
+        "holds": 142
+    },
+    {
+        "chartName": "Anomaly",
+        "folderName": "Anomaly (SX 14)",
+        "steps": 1922,
+        "rolls": 0,
+        "holds": 101
+    },
+    {
+        "chartName": "Atlantis Hawk",
+        "folderName": "Atlantis Hawk (SX 14)",
+        "steps": 959,
+        "rolls": 29,
+        "holds": 44
+    },
+    {
+        "chartName": "Electric Blue 404",
+        "folderName": "Electric Blue 404 (SX 14)",
+        "steps": 786,
+        "rolls": 2,
+        "holds": 18
+    },
+    {
+        "chartName": "Great Devil of the Sixth Heaven",
+        "folderName": "Great Devil of the Sixth Heaven (SX 14)",
+        "steps": 998,
+        "rolls": 1,
+        "holds": 89
+    },
+    {
+        "chartName": "L-Anima",
+        "folderName": "L-an!ma (SX 14)",
+        "steps": 1040,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "Spooky",
+        "folderName": "spooky (SX 14)",
+        "steps": 1440,
+        "rolls": 5,
+        "holds": 115
     }
 ]
