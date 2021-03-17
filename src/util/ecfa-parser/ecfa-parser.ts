@@ -11,7 +11,7 @@ enum ChartReferenceColumn {
 }
 
 const fileName = 'Songlist.xlsx';
-new Workbook().xlsx.readFile('Songlist.xlsx').then(workbook => {    
+new Workbook().xlsx.readFile(fileName).then(workbook => {    
     if (workbook.worksheets.length !== 1) {
         console.error("Workbook must contain exactly 1 worksheet.");
         return;
