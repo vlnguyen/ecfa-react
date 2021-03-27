@@ -29,7 +29,8 @@ function App() {
             </section>
           )}
         </Dropzone>
-        <p>Songlist last updated: March 14, 2021</p>
+        <p>Songlist last updated: March 27, 2021</p>
+        <p><i>Step count is fixed for Turndup.</i></p>
       </header>
     </div>
   );
