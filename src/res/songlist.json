@@ -3337,5 +3337,257 @@
         "steps": 1440,
         "rolls": 5,
         "holds": 115
+    },
+    {
+        "chartName": "Hard Cell (SM)",
+        "folderName": "Hard Cell (SM 7)",
+        "steps": 357,
+        "rolls": 2,
+        "holds": 6
+    },
+    {
+        "chartName": "Yamiyo ni mau wa aka no hana (SM)",
+        "folderName": "Yamiyo ni mau wa aka no hana (SM 7)",
+        "steps": 332,
+        "rolls": 0,
+        "holds": 39
+    },
+    {
+        "chartName": "Arcology On Permafrost (SM)",
+        "folderName": "Arcology on Permafrost (SM 8)",
+        "steps": 459,
+        "rolls": 0,
+        "holds": 78
+    },
+    {
+        "chartName": "Galactic (SH)",
+        "folderName": "Galactic (SH 8)",
+        "steps": 437,
+        "rolls": 4,
+        "holds": 76
+    },
+    {
+        "chartName": "King Monkey (SH)",
+        "folderName": "King Monkey (SH 8)",
+        "steps": 359,
+        "rolls": 0,
+        "holds": 19
+    },
+    {
+        "chartName": "Quaoar (SM)",
+        "folderName": "Quaoar (SM 8)",
+        "steps": 464,
+        "rolls": 6,
+        "holds": 93
+    },
+    {
+        "chartName": "Ablife",
+        "folderName": "ablife (SX 9)      ",
+        "steps": 340,
+        "rolls": 8,
+        "holds": 4
+    },
+    {
+        "chartName": "Estrangement (SM)",
+        "folderName": "Estrangement (SM 9)",
+        "steps": 631,
+        "rolls": 8,
+        "holds": 18
+    },
+    {
+        "chartName": "IDWK",
+        "folderName": "IDWK (SX 9)        ",
+        "steps": 544,
+        "rolls": 4,
+        "holds": 63
+    },
+    {
+        "chartName": "Paa",
+        "folderName": "Paa (SX 9)",
+        "steps": 536,
+        "rolls": 0,
+        "holds": 33
+    },
+    {
+        "chartName": "Born Cursed",
+        "folderName": "Born Cursed (SX 10)        ",
+        "steps": 535,
+        "rolls": 10,
+        "holds": 92
+    },
+    {
+        "chartName": "Negative Nature",
+        "folderName": "Negative Nature (SX 10)    ",
+        "steps": 561,
+        "rolls": 2,
+        "holds": 41
+    },
+    {
+        "chartName": "The Future Is Yours",
+        "folderName": "The Future is Yours (SX 10)",
+        "steps": 628,
+        "rolls": 0,
+        "holds": 32
+    },
+    {
+        "chartName": "wavedash",
+        "folderName": "wavedash (SX 10)",
+        "steps": 447,
+        "rolls": 8,
+        "holds": 50
+    },
+    {
+        "chartName": "Gargoyle (2010 Remaster)",
+        "folderName": "Gargoyle (2010 Remaster) (SX 11)",
+        "steps": 692,
+        "rolls": 0,
+        "holds": 79
+    },
+    {
+        "chartName": "NGFK",
+        "folderName": "NGFK (SX 11)",
+        "steps": 690,
+        "rolls": 1,
+        "holds": 95
+    },
+    {
+        "chartName": "Smooooch (DJ Command Mix)",
+        "folderName": "Smooooch (DJ Command Remix) (SX 11)",
+        "steps": 838,
+        "rolls": 12,
+        "holds": 50
+    },
+    {
+        "chartName": "Snowdown",
+        "folderName": "Snowdown (SX 11)",
+        "steps": 651,
+        "rolls": 6,
+        "holds": 98
+    },
+    {
+        "chartName": "Super Wubtendo",
+        "folderName": "Super Wubtendo (SX 11)",
+        "steps": 592,
+        "rolls": 22,
+        "holds": 50
+    },
+    {
+        "chartName": "Time Travel",
+        "folderName": "Time Travel (SX 11)",
+        "steps": 631,
+        "rolls": 13,
+        "holds": 81
+    },
+    {
+        "chartName": "Ambitious",
+        "folderName": "Ambitious (SX 12)",
+        "steps": 640,
+        "rolls": 0,
+        "holds": 48
+    },
+    {
+        "chartName": "Don't Die",
+        "folderName": "Don't Die (SX 12)",
+        "steps": 844,
+        "rolls": 9,
+        "holds": 10
+    },
+    {
+        "chartName": "Encore",
+        "folderName": "Encore (SX 12)",
+        "steps": 661,
+        "rolls": 4,
+        "holds": 68
+    },
+    {
+        "chartName": "Rhythm and Police",
+        "folderName": "Rhythm & Police (SX 12)",
+        "steps": 774,
+        "rolls": 3,
+        "holds": 35
+    },
+    {
+        "chartName": "Upshift (remix)",
+        "folderName": "Upshift (Yunosuke Remix) (SX 12)",
+        "steps": 831,
+        "rolls": 0,
+        "holds": 84
+    },
+    {
+        "chartName": "Ass out",
+        "folderName": "ass out (SX 13)",
+        "steps": 700,
+        "rolls": 0,
+        "holds": 50
+    },
+    {
+        "chartName": "Level Up",
+        "folderName": "Level Up (SX 13)",
+        "steps": 1006,
+        "rolls": 3,
+        "holds": 53
+    },
+    {
+        "chartName": "Pursuer",
+        "folderName": "Pursuer (SX 13)",
+        "steps": 936,
+        "rolls": 0,
+        "holds": 51
+    },
+    {
+        "chartName": "Ruby",
+        "folderName": "Ruby (SX 13)",
+        "steps": 812,
+        "rolls": 0,
+        "holds": 76
+    },
+    {
+        "chartName": "Vividly Impromptu",
+        "folderName": "Vividly Impromptu (SX 13)",
+        "steps": 799,
+        "rolls": 3,
+        "holds": 163
+    },
+    {
+        "chartName": "Hellfire",
+        "folderName": "Hellfire (SX 14)",
+        "steps": 929,
+        "rolls": 0,
+        "holds": 67
+    },
+    {
+        "chartName": "Horizon",
+        "folderName": "Horizon (SX 14)",
+        "steps": 859,
+        "rolls": 3,
+        "holds": 37
+    },
+    {
+        "chartName": "Kyoumen no Nami",
+        "folderName": "Kyoumen no Nami (Jun Kuroda Bootleg Remix) (SX 14)",
+        "steps": 2054,
+        "rolls": 2,
+        "holds": 86
+    },
+    {
+        "chartName": "Scatman (Ryu* Remix)",
+        "folderName": "Scatman Ryu (SX 14)",
+        "steps": 730,
+        "rolls": 0,
+        "holds": 10
+    },
+    {
+        "chartName": "Vector Field",
+        "folderName": "Vector Field (SX 14)",
+        "steps": 876,
+        "rolls": 2,
+        "holds": 75
+    },
+    {
+        "chartName": "Vintage Circuit",
+        "folderName": "Vintage Circuit (SX 14)",
+        "steps": 1719,
+        "rolls": 2,
+        "holds": 51
     }
 ]
