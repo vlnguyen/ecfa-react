@@ -3589,5 +3589,159 @@
         "steps": 1719,
         "rolls": 2,
         "holds": 51
+    },
+    {
+        "chartName": "Disconnected Disco (SH)",
+        "folderName": "Disconnected Disco (SH 8)",
+        "steps": 391,
+        "rolls": 0,
+        "holds": 5
+    },
+    {
+        "chartName": "Da Roots (folk mix)",
+        "folderName": "Da Roots (SX 9)",
+        "steps": 489,
+        "rolls": 0,
+        "holds": 4
+    },
+    {
+        "chartName": "Ride the Bass",
+        "folderName": "Ride the Bass (SX 9)",
+        "steps": 385,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Rom-eo & Juli8",
+        "folderName": "ROM-eo _ Juli8 (SX 9)",
+        "steps": 459,
+        "rolls": 0,
+        "holds": 41
+    },
+    {
+        "chartName": "Wake Up",
+        "folderName": "Wake Up (SX 9)",
+        "steps": 426,
+        "rolls": 0,
+        "holds": 40
+    },
+    {
+        "chartName": "Vi Sitter I Ventrilo Och Spelar DotA",
+        "folderName": "Vi Sitter I Ventrilo Och Spelar DotA (SX 9)",
+        "steps": 391,
+        "rolls": 4,
+        "holds": 4
+    },
+    {
+        "chartName": "Oasis",
+        "folderName": "Oasis (SX 10)",
+        "steps": 461,
+        "rolls": 0,
+        "holds": 216
+    },
+    {
+        "chartName": "Soapy Bubble",
+        "folderName": "Soapy Bubble (SX 10)",
+        "steps": 596,
+        "rolls": 0,
+        "holds": 0
+    },
+    {
+        "chartName": "Stop the Music",
+        "folderName": "Stop the Music (SX 10)",
+        "steps": 504,
+        "rolls": 2,
+        "holds": 55
+    },
+    {
+        "chartName": "Sweet World",
+        "folderName": "Sweet World (SX 10)",
+        "steps": 618,
+        "rolls": 0,
+        "holds": 60
+    },
+    {
+        "chartName": "Twilight",
+        "folderName": "Twilight (SX 10)",
+        "steps": 406,
+        "rolls": 0,
+        "holds": 30
+    },
+    {
+        "chartName": "Disconnected Sanxion7 remix",
+        "folderName": "Disconnected (Sanxion7 remix) (SX 11)",
+        "steps": 612,
+        "rolls": 0,
+        "holds": 69
+    },
+    {
+        "chartName": "Monolith",
+        "folderName": "Monolith (SX 11)",
+        "steps": 628,
+        "rolls": 0,
+        "holds": 29
+    },
+    {
+        "chartName": "Robotix",
+        "folderName": "Robotix (SX 11)",
+        "steps": 592,
+        "rolls": 0,
+        "holds": 47
+    },
+    {
+        "chartName": "The Man Crossing The Channel",
+        "folderName": "The Man Crossing the Channel (SX 11)",
+        "steps": 688,
+        "rolls": 2,
+        "holds": 6
+    },
+    {
+        "chartName": "Determinator",
+        "folderName": "Determinator (SX 12)",
+        "steps": 622,
+        "rolls": 0,
+        "holds": 4
+    },
+    {
+        "chartName": "Euphoria",
+        "folderName": "Euphoria (SX 12)",
+        "steps": 793,
+        "rolls": 0,
+        "holds": 114
+    },
+    {
+        "chartName": "Over The Rave",
+        "folderName": "Over the Rave (SX 12)",
+        "steps": 830,
+        "rolls": 0,
+        "holds": 94
+    },
+    {
+        "chartName": "We Met Dat Night",
+        "folderName": "We Met Dat Night (SX 12)",
+        "steps": 592,
+        "rolls": 0,
+        "holds": 20
+    },
+    {
+        "chartName": "Epileptic Crisis",
+        "folderName": "Epileptic Crisis (SX 13)",
+        "steps": 811,
+        "rolls": 0,
+        "holds": 45
+    },
+    {
+        "chartName": "Pandemonium",
+        "folderName": "Pandemonium (SX 13)",
+        "steps": 858,
+        "rolls": 0,
+        "holds": 42
+    },
+    {
+        "chartName": "Chromatic Blitz",
+        "folderName": "Chromatic Blitz (SX 14)",
+        "steps": 851,
+        "rolls": 2,
+        "holds": 33
     }
 ]

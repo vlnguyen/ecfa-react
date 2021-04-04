@@ -29,7 +29,7 @@ function App() {
             </section>
           )}
         </Dropzone>
-        <p>Songlist last updated: March 28, 2021</p>
+        <p>Songlist last updated: April 3, 2021</p>
       </header>
     </div>
   );
