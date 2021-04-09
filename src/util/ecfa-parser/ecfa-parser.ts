@@ -33,8 +33,8 @@ new Workbook().xlsx.readFile(fileName).then(workbook => {
         }
 
         charts.push(new Chart(
-            row.getCell(ChartReferenceColumn.ChartName).model.value!.toString(),
-            row.getCell(ChartReferenceColumn.FolderName).model.value!.toString(),
+            row.getCell(ChartReferenceColumn.ChartName).model.value!.toString().trim(),
+            row.getCell(ChartReferenceColumn.FolderName).model.value!.toString().trim(),
             parseInt(row.getCell(ChartReferenceColumn.Steps).model.value!.toString()),
             parseInt(row.getCell(ChartReferenceColumn.Rolls).model.value!.toString()),
             parseInt(row.getCell(ChartReferenceColumn.Holds).model.value!.toString()),

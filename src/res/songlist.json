@@ -3382,7 +3382,7 @@
     },
     {
         "chartName": "Ablife",
-        "folderName": "ablife (SX 9)      ",
+        "folderName": "ablife (SX 9)",
         "steps": 340,
         "rolls": 8,
         "holds": 4
@@ -3396,7 +3396,7 @@
     },
     {
         "chartName": "IDWK",
-        "folderName": "IDWK (SX 9)        ",
+        "folderName": "IDWK (SX 9)",
         "steps": 544,
         "rolls": 4,
         "holds": 63
@@ -3410,14 +3410,14 @@
     },
     {
         "chartName": "Born Cursed",
-        "folderName": "Born Cursed (SX 10)        ",
+        "folderName": "Born Cursed (SX 10)",
         "steps": 535,
         "rolls": 10,
         "holds": 92
     },
     {
         "chartName": "Negative Nature",
-        "folderName": "Negative Nature (SX 10)    ",
+        "folderName": "Negative Nature (SX 10)",
         "steps": 561,
         "rolls": 2,
         "holds": 41

@@ -29,7 +29,12 @@ function App() {
             </section>
           )}
         </Dropzone>
-        <p>Songlist last updated: April 3, 2021</p>
+        <p>Songlist last updated: April 8, 2021</p>
+        <p>
+          <i>
+            Fixed an issue with Ablife, IDWK, Born Cursed, and Negative Nature folder names.
+          </i>
+        </p>
       </header>
     </div>
   );
