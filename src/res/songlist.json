@@ -3743,5 +3743,257 @@
         "steps": 851,
         "rolls": 2,
         "holds": 33
+    },
+    {
+        "chartName": "Dance with Liquor (SH)",
+        "folderName": "Dance with Liquor (SH 7)",
+        "steps": 369,
+        "rolls": 0,
+        "holds": 58
+    },
+    {
+        "chartName": "MURASAME (SM)",
+        "folderName": "MURASAME (SM 7)",
+        "steps": 373,
+        "rolls": 0,
+        "holds": 12
+    },
+    {
+        "chartName": "Deadly Dolly Dance (SM)",
+        "folderName": "Deadly Dolly Dance (SM 8)",
+        "steps": 391,
+        "rolls": 0,
+        "holds": 51
+    },
+    {
+        "chartName": "Drunkenstein (SH)",
+        "folderName": "DrunkenStein (SH 8)",
+        "steps": 421,
+        "rolls": 1,
+        "holds": 47
+    },
+    {
+        "chartName": "I",
+        "folderName": "I (SM 8)",
+        "steps": 365,
+        "rolls": 0,
+        "holds": 25
+    },
+    {
+        "chartName": "Otemba de Jane-yo (SH)",
+        "folderName": "Otemba de Jane-yo (SH 8)",
+        "steps": 427,
+        "rolls": 0,
+        "holds": 36
+    },
+    {
+        "chartName": "Pulse Wave Intensifies (SH)",
+        "folderName": "-Pulse Wave Intensifies- (SH 8)",
+        "steps": 472,
+        "rolls": 0,
+        "holds": 73
+    },
+    {
+        "chartName": "Stressed Free Style (SH)",
+        "folderName": "Stressed Free Style (SH 8)",
+        "steps": 449,
+        "rolls": 13,
+        "holds": 27
+    },
+    {
+        "chartName": "Chaos Terror-Tech Mix (SM)",
+        "folderName": "CHAOS Terror-Tech Mix (SM 9)",
+        "steps": 534,
+        "rolls": 0,
+        "holds": 68
+    },
+    {
+        "chartName": "Critical Crystal (SH)",
+        "folderName": "Critical Crystal (brz_remix) (SH 9)",
+        "steps": 495,
+        "rolls": 9,
+        "holds": 51
+    },
+    {
+        "chartName": "Megaburn (SH)",
+        "folderName": "Megaburn (SH 9)",
+        "steps": 560,
+        "rolls": 6,
+        "holds": 7
+    },
+    {
+        "chartName": "Dance Hymn of the Soul",
+        "folderName": "Dance Hymn of the Soul (SX 10)",
+        "steps": 525,
+        "rolls": 0,
+        "holds": 106
+    },
+    {
+        "chartName": "Rapid Fire",
+        "folderName": "Rapid Fire (SX 10)",
+        "steps": 641,
+        "rolls": 4,
+        "holds": 68
+    },
+    {
+        "chartName": "Butterfly Twist",
+        "folderName": "Butterfly Twist (SX 11)",
+        "steps": 513,
+        "rolls": 11,
+        "holds": 71
+    },
+    {
+        "chartName": "Groove 2001",
+        "folderName": "Groove 2001 (SX 11)",
+        "steps": 564,
+        "rolls": 5,
+        "holds": 26
+    },
+    {
+        "chartName": "Herbivore",
+        "folderName": "Herbivore (SX 11)",
+        "steps": 552,
+        "rolls": 17,
+        "holds": 20
+    },
+    {
+        "chartName": "Phantomystic",
+        "folderName": "Phantomystic (SX 11)",
+        "steps": 820,
+        "rolls": 0,
+        "holds": 25
+    },
+    {
+        "chartName": "Spooky",
+        "folderName": "Spooky (SX 11)",
+        "steps": 728,
+        "rolls": 0,
+        "holds": 62
+    },
+    {
+        "chartName": "The Sadness Will Never End (Skrillex Remix)",
+        "folderName": "The Sadness Will Never End (Skrillex Remix) (SX 11)",
+        "steps": 727,
+        "rolls": 2,
+        "holds": 89
+    },
+    {
+        "chartName": "Thirsty",
+        "folderName": "Thirsty (SX 11)",
+        "steps": 533,
+        "rolls": 9,
+        "holds": 10
+    },
+    {
+        "chartName": "Mysterium Vinyl",
+        "folderName": "Mysterium Vinyl (SX 12)",
+        "steps": 690,
+        "rolls": 4,
+        "holds": 87
+    },
+    {
+        "chartName": "Otemba de Jane-yo",
+        "folderName": "Otemba de Jane-yo (SX 12)",
+        "steps": 700,
+        "rolls": 1,
+        "holds": 55
+    },
+    {
+        "chartName": "PhaseX",
+        "folderName": "PhaseX (SX 12)",
+        "steps": 986,
+        "rolls": 30,
+        "holds": 84
+    },
+    {
+        "chartName": "Spooky",
+        "folderName": "spooky (SM 12)",
+        "steps": 764,
+        "rolls": 8,
+        "holds": 153
+    },
+    {
+        "chartName": "Videodrone",
+        "folderName": "Videodrone (censored) (SX 12)",
+        "steps": 790,
+        "rolls": 11,
+        "holds": 124
+    },
+    {
+        "chartName": "Circulator",
+        "folderName": "Circulator (SX 13)",
+        "steps": 717,
+        "rolls": 0,
+        "holds": 35
+    },
+    {
+        "chartName": "Sound Alchemist",
+        "folderName": "Sound Alchemist (SX 13)",
+        "steps": 831,
+        "rolls": 0,
+        "holds": 70
+    },
+    {
+        "chartName": "Synergy",
+        "folderName": "SYNERGY (SX 13)",
+        "steps": 892,
+        "rolls": 12,
+        "holds": 75
+    },
+    {
+        "chartName": "Triple Counter (SE)",
+        "folderName": "Triple Counter (SE 13)",
+        "steps": 763,
+        "rolls": 0,
+        "holds": 91
+    },
+    {
+        "chartName": "Vividparty",
+        "folderName": "Vividparty (SX 13)",
+        "steps": 827,
+        "rolls": 9,
+        "holds": 38
+    },
+    {
+        "chartName": "Anisakis",
+        "folderName": "Anisakis (SX 14)",
+        "steps": 887,
+        "rolls": 33,
+        "holds": 26
+    },
+    {
+        "chartName": "Brainfog",
+        "folderName": "Brainfog (SX 14)",
+        "steps": 1047,
+        "rolls": 9,
+        "holds": 0
+    },
+    {
+        "chartName": "Disconnected Hardkore",
+        "folderName": "Disconnected HardKore (SX 14)",
+        "steps": 901,
+        "rolls": 4,
+        "holds": 0
+    },
+    {
+        "chartName": "DropZ -line-",
+        "folderName": "DropZ -Line- (SX 14)",
+        "steps": 1021,
+        "rolls": 5,
+        "holds": 26
+    },
+    {
+        "chartName": "Override",
+        "folderName": "Override (SX 14)",
+        "steps": 970,
+        "rolls": 0,
+        "holds": 26
+    },
+    {
+        "chartName": "Throne",
+        "folderName": "Throne (SX 14)",
+        "steps": 777,
+        "rolls": 0,
+        "holds": 28
     }
 ]
