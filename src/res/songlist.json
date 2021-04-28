@@ -3995,5 +3995,243 @@
         "steps": 777,
         "rolls": 0,
         "holds": 28
+    },
+    {
+        "chartName": "Underwater Regret (SH)",
+        "folderName": "Underwater Regret (SH 7)",
+        "steps": 369,
+        "rolls": 0,
+        "holds": 46
+    },
+    {
+        "chartName": "Fluxillary (SH)",
+        "folderName": "Fluxillary (SH 8)",
+        "steps": 333,
+        "rolls": 8,
+        "holds": 33
+    },
+    {
+        "chartName": "Hakken (SM)",
+        "folderName": "Hakken (SM 8)",
+        "steps": 365,
+        "rolls": 6,
+        "holds": 43
+    },
+    {
+        "chartName": "Johnny's Got That Funk (SH)",
+        "folderName": "Johnny's Got That Funk (SH 8)",
+        "steps": 362,
+        "rolls": 13,
+        "holds": 18
+    },
+    {
+        "chartName": "Push the Fader (SH)",
+        "folderName": "Push The Fader (SH 8)",
+        "steps": 454,
+        "rolls": 1,
+        "holds": 40
+    },
+    {
+        "chartName": "Arcade",
+        "folderName": "Arcade (SX 9)",
+        "steps": 436,
+        "rolls": 1,
+        "holds": 77
+    },
+    {
+        "chartName": "Multitalents (SM)",
+        "folderName": "Multitalents (SM 9)",
+        "steps": 536,
+        "rolls": 9,
+        "holds": 30
+    },
+    {
+        "chartName": "subtractive (SH)",
+        "folderName": "subtractive (SH 9)",
+        "steps": 579,
+        "rolls": 13,
+        "holds": 21
+    },
+    {
+        "chartName": "Remix 1",
+        "folderName": "Remix 1 (SX 10)",
+        "steps": 470,
+        "rolls": 2,
+        "holds": 37
+    },
+    {
+        "chartName": "Shoes",
+        "folderName": "Shoes (Club Fantastic Edit) (SX 10)",
+        "steps": 475,
+        "rolls": 0,
+        "holds": 49
+    },
+    {
+        "chartName": "Bass in Da House",
+        "folderName": "Bass In Da House (SX 11)",
+        "steps": 605,
+        "rolls": 4,
+        "holds": 80
+    },
+    {
+        "chartName": "Big Phil",
+        "folderName": "Big Phil (SX 11)",
+        "steps": 551,
+        "rolls": 2,
+        "holds": 8
+    },
+    {
+        "chartName": "DeltaMax",
+        "folderName": "DeltaMAX (SM 11)",
+        "steps": 604,
+        "rolls": 0,
+        "holds": 3
+    },
+    {
+        "chartName": "Fluxillary",
+        "folderName": "Fluxillary (SX 11)",
+        "steps": 510,
+        "rolls": 6,
+        "holds": 46
+    },
+    {
+        "chartName": "mavepine",
+        "folderName": "mavepine (SX 11)",
+        "steps": 558,
+        "rolls": 0,
+        "holds": 43
+    },
+    {
+        "chartName": "Throw your cards down (Nhato remix)",
+        "folderName": "Throw your cards down (Nhato Remix) (SX 11)",
+        "steps": 674,
+        "rolls": 0,
+        "holds": 49
+    },
+    {
+        "chartName": "Abyss",
+        "folderName": "Abyss (SX 12)",
+        "steps": 783,
+        "rolls": 2,
+        "holds": 94
+    },
+    {
+        "chartName": "Bassline & Sexy",
+        "folderName": "Bassline & Sexy (Original Mix) (SX 12)",
+        "steps": 702,
+        "rolls": 73,
+        "holds": 39
+    },
+    {
+        "chartName": "Fracture Ray",
+        "folderName": "Fracture Ray (SX 12)",
+        "steps": 633,
+        "rolls": 11,
+        "holds": 57
+    },
+    {
+        "chartName": "MASAMUNE",
+        "folderName": "MASAMUNE (SX 12)",
+        "steps": 805,
+        "rolls": 1,
+        "holds": 34
+    },
+    {
+        "chartName": "Super Reactor",
+        "folderName": "SUPER REACTOR (SX 12)",
+        "steps": 833,
+        "rolls": 4,
+        "holds": 75
+    },
+    {
+        "chartName": "Young Killa",
+        "folderName": "Young Killa (SX 12)",
+        "steps": 607,
+        "rolls": 17,
+        "holds": 35
+    },
+    {
+        "chartName": "Harpoon",
+        "folderName": "Harpoon (SX 13)",
+        "steps": 826,
+        "rolls": 0,
+        "holds": 14
+    },
+    {
+        "chartName": "Hysteria",
+        "folderName": "hysteria (SX 13)",
+        "steps": 816,
+        "rolls": 0,
+        "holds": 80
+    },
+    {
+        "chartName": "imissu My Fine Neko Shot Sunrise",
+        "folderName": "imissu My Fine Neko Shot Sunrise (SX 13)",
+        "steps": 1601,
+        "rolls": 6,
+        "holds": 48
+    },
+    {
+        "chartName": "Paradoxy (Camellia's \"PERPETUAL\" remix)",
+        "folderName": "Paradoxy (Camellia's PERPETUAL Remix) (SX 13)",
+        "steps": 932,
+        "rolls": 29,
+        "holds": 109
+    },
+    {
+        "chartName": "Radius",
+        "folderName": "Radius (SX 13)",
+        "steps": 741,
+        "rolls": 1,
+        "holds": 103
+    },
+    {
+        "chartName": "Eg0 (SE)",
+        "folderName": "EgO (SE 14)",
+        "steps": 1029,
+        "rolls": 0,
+        "holds": 81
+    },
+    {
+        "chartName": "GIGA VIOLATE",
+        "folderName": "GIGA VIOLATE (SX 14)",
+        "steps": 880,
+        "rolls": 5,
+        "holds": 47
+    },
+    {
+        "chartName": "I",
+        "folderName": "I (SX 14)",
+        "steps": 922,
+        "rolls": 26,
+        "holds": 33
+    },
+    {
+        "chartName": "Palpitation",
+        "folderName": "Palpitation (SX 14)",
+        "steps": 777,
+        "rolls": 6,
+        "holds": 98
+    },
+    {
+        "chartName": "Sudden Visitor",
+        "folderName": "Sudden Visitor (SX 14)",
+        "steps": 1095,
+        "rolls": 1,
+        "holds": 138
+    },
+    {
+        "chartName": "Super Hyper Miracle Fantasy Parade",
+        "folderName": "SUPER HYPER MIRACLE FANTASY PARADE (SX 14)",
+        "steps": 1110,
+        "rolls": 9,
+        "holds": 88
+    },
+    {
+        "chartName": "Windy Windy Wind",
+        "folderName": "Windy Windy Wind (SX 14)",
+        "steps": 852,
+        "rolls": 0,
+        "holds": 7
     }
 ]
