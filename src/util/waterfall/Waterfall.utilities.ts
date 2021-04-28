@@ -3,7 +3,7 @@ import fs from 'file-saver';
 import { default as songlist } from '../../res/songlist.json';
 import { WaterfallExcelJudgements, WaterfallExcelScore, WaterfallScore } from "../../types/Waterfall.types";
 
-const folderNameRegex = /.*?\/(.*?\(S[NMHX] \d{1,2}\))\//;
+const folderNameRegex = /.*?\/(.*?\(S[NEMHX] \d{1,2}\))\//;
 
 const edgeCaseSongFolders = new Set<string>([
     "Ave de Rapina (SX 11)",
