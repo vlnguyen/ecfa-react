@@ -30,6 +30,7 @@ function App() {
           )}
         </Dropzone>
         <p>Songlist last updated: April 28, 2021</p>
+        <em>Fixed parsing of Easy charts and step count on Vector Field.</em>
       </header>
     </div>
   );
