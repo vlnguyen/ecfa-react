@@ -4233,5 +4233,89 @@
         "steps": 852,
         "rolls": 0,
         "holds": 7
+    },
+    {
+        "chartName": "Chatterbox",
+        "folderName": "Chatterbox (SX 9)",
+        "steps": 507,
+        "rolls": 4,
+        "holds": 74
+    },
+    {
+        "chartName": "Knots",
+        "folderName": "Knots (SX 10)",
+        "steps": 565,
+        "rolls": 11,
+        "holds": 37
+    },
+    {
+        "chartName": "Critical Crystal (brz remix)",
+        "folderName": "Critical Crystal (brz_remix) (SX 11)",
+        "steps": 653,
+        "rolls": 0,
+        "holds": 49
+    },
+    {
+        "chartName": "Turning Point",
+        "folderName": "Turning Point (SX 12)",
+        "steps": 895,
+        "rolls": 12,
+        "holds": 42
+    },
+    {
+        "chartName": "PP is Dead",
+        "folderName": "PP is Dead (SX 13)",
+        "steps": 659,
+        "rolls": 0,
+        "holds": 118
+    },
+    {
+        "chartName": "Prime Time",
+        "folderName": "Prime Time (SX 14)",
+        "steps": 1269,
+        "rolls": 2,
+        "holds": 101
+    },
+    {
+        "chartName": "Sweet Devil SketchP remix",
+        "folderName": "Sweet Devil (SketchP Remix)",
+        "steps": 538,
+        "rolls": 7,
+        "holds": 65
+    },
+    {
+        "chartName": "Jam Jam Reggae",
+        "folderName": "Jam Jam Reggae (AMD Swing Mix) (SX 10)",
+        "steps": 487,
+        "rolls": 0,
+        "holds": 33
+    },
+    {
+        "chartName": "Fat Controller",
+        "folderName": "Fat Controller (SX 11)",
+        "steps": 756,
+        "rolls": 13,
+        "holds": 39
+    },
+    {
+        "chartName": "corps-sans-organes",
+        "folderName": "corps-sans-organes (SX 12)",
+        "steps": 809,
+        "rolls": 1,
+        "holds": 68
+    },
+    {
+        "chartName": "Estrangement",
+        "folderName": "Estrangement (SX 13)",
+        "steps": 1051,
+        "rolls": 0,
+        "holds": 44
+    },
+    {
+        "chartName": "Dyscontrolled Galaxy",
+        "folderName": "Dyscontrolled Galaxy (SX 14)",
+        "steps": 951,
+        "rolls": 0,
+        "holds": 56
     }
 ]
