@@ -4317,5 +4317,47 @@
         "steps": 951,
         "rolls": 0,
         "holds": 56
+    },
+    {
+        "chartName": "Blust of Wind",
+        "folderName": "Blust of Wind (SX 9)",
+        "steps": 486,
+        "rolls": 0,
+        "holds": 101
+    },
+    {
+        "chartName": "Mantis",
+        "folderName": "Mantis (SX 10)",
+        "steps": 488,
+        "rolls": 9,
+        "holds": 161
+    },
+    {
+        "chartName": "Kurenai no panselinos",
+        "folderName": "Kurenai no panselinos (SX 11)",
+        "steps": 669,
+        "rolls": 0,
+        "holds": 64
+    },
+    {
+        "chartName": "Agen Wida",
+        "folderName": "Agen Wida (SX 12)",
+        "steps": 616,
+        "rolls": 2,
+        "holds": 30
+    },
+    {
+        "chartName": "Kamah -scythe-",
+        "folderName": "Kamah (Scythe) (SX 13)",
+        "steps": 819,
+        "rolls": 2,
+        "holds": 154
+    },
+    {
+        "chartName": "Chaos Terror Tech Mix",
+        "folderName": "CHAOS Terror-Tech Mix (SX 14)",
+        "steps": 810,
+        "rolls": 4,
+        "holds": 45
     }
 ]
