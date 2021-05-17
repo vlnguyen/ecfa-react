@@ -30,6 +30,7 @@ function App() {
           )}
         </Dropzone>
         <p>Songlist last updated: May 17, 2021</p>
+        <em>Fixed parsing folder names that don't have difficulty labels.</em>
       </header>
     </div>
   );
