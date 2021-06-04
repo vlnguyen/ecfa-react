@@ -4359,5 +4359,68 @@
         "steps": 810,
         "rolls": 4,
         "holds": 45
+    },
+    {
+        "chartName": "Superboy (SH)",
+        "folderName": "Superboy (SH 7)",
+        "steps": 351,
+        "rolls": 0,
+        "holds": 108
+    },
+    {
+        "chartName": "Esoterica (SH)",
+        "folderName": "Esoterica (Yunosuke Remix) (SH 8)",
+        "steps": 385,
+        "rolls": 8,
+        "holds": 44
+    },
+    {
+        "chartName": "Scorching Moon (SH)",
+        "folderName": "Scorching Moon (SH 9)",
+        "steps": 438,
+        "rolls": 0,
+        "holds": 11
+    },
+    {
+        "chartName": "Down the Road",
+        "folderName": "Down the Road (SX 10)",
+        "steps": 470,
+        "rolls": 2,
+        "holds": 101
+    },
+    {
+        "chartName": "Doughnut Planet",
+        "folderName": "Doughnut Planet (SX 11)",
+        "steps": 583,
+        "rolls": 3,
+        "holds": 45
+    },
+    {
+        "chartName": "P.R.M.",
+        "folderName": "P.R.M (SX 12)",
+        "steps": 748,
+        "rolls": 1,
+        "holds": 40
+    },
+    {
+        "chartName": "Towerblock",
+        "folderName": "Towerblock (SX 13)",
+        "steps": 772,
+        "rolls": 2,
+        "holds": 74
+    },
+    {
+        "chartName": "Pique",
+        "folderName": "pique (SX 14)",
+        "steps": 995,
+        "rolls": 0,
+        "holds": 51
+    },
+    {
+        "chartName": "Prickly Pear's Ultimatum",
+        "folderName": "[Mix] Prickly Pear's Ultimatum",
+        "steps": 11830,
+        "rolls": 60,
+        "holds": 1058
     }
 ]
